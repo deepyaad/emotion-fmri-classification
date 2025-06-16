@@ -1,0 +1,162 @@
+Round: 1
+Components: 1, Error: 211871.53322041873
+
+Round: 6
+Components: 6, Error: 132275.88447493652
+
+Round: 11
+Components: 11, Error: 110152.7949084889
+
+Round: 16
+Components: 16, Error: 97196.43565443583
+
+Round: 21
+Components: 21, Error: 90571.31653930366
+
+Round: 26
+Components: 26, Error: 86819.45613608624
+
+Round: 31
+Components: 31, Error: 84237.11210033743
+
+Round: 36
+Components: 36, Error: 82554.5694952697
+
+Round: 41
+Components: 41, Error: 81231.31680683934
+
+Round: 46
+Components: 46, Error: 80232.00340187164
+
+Round: 51
+Components: 51, Error: 79474.08592692061
+
+Round: 56
+Components: 56, Error: 78888.56540133042
+
+Round: 61
+Components: 61, Error: 78451.43656052956
+
+Round: 66
+Components: 66, Error: 78118.70794964398
+
+Round: 71
+Components: 71, Error: 77854.10963196374
+
+Round: 76
+Components: 76, Error: 77645.24058410681
+
+Round: 81
+Components: 81, Error: 77485.01188463882
+
+Round: 86
+Components: 86, Error: 77357.75759708593
+
+Round: 91
+Components: 91, Error: 77258.50001452636
+
+Round: 96
+Components: 96, Error: 77184.45588536318
+
+Round: 101
+Components: 101, Error: 77129.53895839692
+
+Round: 106
+Components: 106, Error: 77091.03743617873
+
+Round: 111
+Components: 111, Error: 77064.98101068012
+
+Round: 116
+Components: 116, Error: 77045.90380787734
+
+Round: 121
+Components: 121, Error: 77033.54518245698
+
+Round: 126
+Components: 126, Error: 77027.08420049824
+
+Round: 131
+Components: 131, Error: 77023.68321555863
+
+Round: 136
+Components: 136, Error: 77022.09090407635
+
+Round: 141
+Components: 141, Error: 77021.19948128243
+
+Round: 146
+Components: 146, Error: 77020.86739228114
+
+Round: 151
+Skipped d=151: There are significant negative eigenvalues (0.000294068 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 156
+Skipped d=156: There are significant negative eigenvalues (0.000724478 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 161
+Skipped d=161: There are significant negative eigenvalues (0.0013739 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 166
+Skipped d=166: There are significant negative eigenvalues (0.00206498 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 171
+Skipped d=171: There are significant negative eigenvalues (0.00256321 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 176
+Skipped d=176: There are significant negative eigenvalues (0.00329289 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 181
+Skipped d=181: There are significant negative eigenvalues (0.00432735 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 186
+Skipped d=186: There are significant negative eigenvalues (0.0051681 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 191
+Skipped d=191: There are significant negative eigenvalues (0.00599045 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 196
+Skipped d=196: There are significant negative eigenvalues (0.00705551 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 201
+Skipped d=201: There are significant negative eigenvalues (0.00808176 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 206
+Skipped d=206: There are significant negative eigenvalues (0.00941188 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 211
+Skipped d=211: There are significant negative eigenvalues (0.0108316 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 216
+Skipped d=216: There are significant negative eigenvalues (0.0124324 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 221
+Skipped d=221: There are significant negative eigenvalues (0.0138365 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 226
+Skipped d=226: There are significant negative eigenvalues (0.0160064 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 231
+Skipped d=231: There are significant negative eigenvalues (0.0174674 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 236
+Skipped d=236: There are significant negative eigenvalues (0.0209412 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 241
+Skipped d=241: There are significant negative eigenvalues (0.0238572 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 246
+Skipped d=246: There are significant negative eigenvalues (0.0276693 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 251
+Skipped d=251: There are significant negative eigenvalues (0.0332415 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 256
+Skipped d=256: There are significant negative eigenvalues (0.0419874 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 261
+Skipped d=261: There are significant negative eigenvalues (0.0524513 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
+Round: 266
+Skipped d=266: There are significant negative eigenvalues (0.072472 of the maximum positive). Either the matrix is not PSD, or there was an issue while computing the eigendecomposition of the matrix.
+
