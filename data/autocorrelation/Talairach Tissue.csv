@@ -1,4 +1,4 @@
-feature,corrcoef
-Gray Matter,0.03713979821357018
-White Matter,0.04080746083124356
-Cerebro-Spinal Fluid,-0.07180702359299082
+feature,corrcoef,category
+Gray Matter,0.03713979821357018,No Correlation
+White Matter,0.04080746083124356,No Correlation
+Cerebro-Spinal Fluid,-0.07180702359299082,No Correlation

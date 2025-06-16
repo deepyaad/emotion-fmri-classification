@@ -1,63 +1,63 @@
-feature,corrcoef
-GM Amygdala_centromedial group,-0.02932989487473564
-GM Amygdala_laterobasal group,-0.05802774649060244
-GM Amygdala_superficial group,-0.030803266638892313
-GM Anterior intra-parietal sulcus hIP1,-0.04032613685659777
-GM Anterior intra-parietal sulcus hIP2,-0.044284652265349625
-GM Anterior intra-parietal sulcus hIP3,-0.05050120893905183
-GM Broca's area BA44,-0.05690523916828901
-GM Broca's area BA45,-0.08612725409615557
-GM Hippocampus cornu ammonis,-0.07689590158123094
-GM Hippocampus dentate gyrus,-0.09192922212068493
-GM Hippocampus entorhinal cortex,-0.06913627105272437
-GM Hippocampus hippocampal-amygdaloid transition area,-0.06341605694610625
-GM Hippocampus subiculum,-0.11823101085675464
-GM Inferior parietal lobule PF,-0.10432942468708852
-GM Inferior parietal lobule PFcm,-0.03564558879141014
-GM Inferior parietal lobule PFm,-0.06337065634030635
-GM Inferior parietal lobule PFop,0.04713930782161721
-GM Inferior parietal lobule PFt,0.03695576517421769
-GM Inferior parietal lobule PGp,0.19082128240676874
-GM Inferior parietal lobule Pga,-0.0017156793876424486
-GM Insula Id1,-0.027645071723475224
-GM Insula Ig1,-0.03608792375789465
-GM Insula Ig2,0.09247673170589904
-GM Lateral geniculate body,-0.11330394513799867
-GM Mamillary body,-0.11965490182629272
-GM Medial geniculate body,-0.18003019256514022
-GM Premotor cortex BA6,0.052792485908883
-GM Primary auditory cortex TE1.0,0.14180106140460857
-GM Primary auditory cortex TE1.1,-0.001252907017169616
-GM Primary auditory cortex TE1.2,0.08827348476319939
-GM Primary motor cortex BA4a,0.046733475074298474
-GM Primary motor cortex BA4p,0.11016300971890698
-GM Primary somatosensory cortex BA1,0.10664025565080835
-GM Primary somatosensory cortex BA2,0.0455177489074576
-GM Primary somatosensory cortex BA3a,0.09243274144441957
-GM Primary somatosensory cortex BA3b,0.10262220493916202
-GM Secondary somatosensory cortex / Parietal operculum OP1,0.07004942451105832
-GM Secondary somatosensory cortex / Parietal operculum OP2,0.061855935771801956
-GM Secondary somatosensory cortex / Parietal operculum OP3,0.028941210584772708
-GM Secondary somatosensory cortex / Parietal operculum OP4,0.09366100090689113
-GM Superior parietal lobule 5Ci,0.16378857240865718
-GM Superior parietal lobule 5L,-0.04975487749081347
-GM Superior parietal lobule 5M,0.04361869987782652
-GM Superior parietal lobule 7A,0.02679871827035007
-GM Superior parietal lobule 7M,0.18424035515912532
-GM Superior parietal lobule 7P,0.11656350354123797
-GM Superior parietal lobule 7PC,0.012239546615494423
-GM Visual cortex V1 BA17,0.19957398716532387
-GM Visual cortex V2 BA18,0.19928168983599806
-GM Visual cortex V3V,0.06815829020224037
-GM Visual cortex V4,0.06571903569142215
-GM Visual cortex V5,0.1489765186763257
-WM Acoustic radiation,0.06170575834939489
-WM Callosal body,-0.05346797650237605
-WM Cingulum,0.05577810333672084
-WM Corticospinal tract,0.01194332961393873
-WM Fornix,-0.08794685887286002
-WM Inferior occipito-frontal fascicle,0.011835223310592776
-WM Optic radiation,0.13701376538750004
-WM Superior longitudinal fascicle,-0.04294385544395241
-WM Superior occipito-frontal fascicle,-0.07927776055911341
-WM Uncinate fascicle,0.02553630589429482
+feature,corrcoef,category
+GM Amygdala_centromedial group,-0.02932989487473564,No Correlation
+GM Amygdala_laterobasal group,-0.05802774649060244,No Correlation
+GM Amygdala_superficial group,-0.030803266638892313,No Correlation
+GM Anterior intra-parietal sulcus hIP1,-0.04032613685659777,No Correlation
+GM Anterior intra-parietal sulcus hIP2,-0.044284652265349625,No Correlation
+GM Anterior intra-parietal sulcus hIP3,-0.05050120893905183,No Correlation
+GM Broca's area BA44,-0.05690523916828901,No Correlation
+GM Broca's area BA45,-0.08612725409615557,No Correlation
+GM Hippocampus cornu ammonis,-0.07689590158123094,No Correlation
+GM Hippocampus dentate gyrus,-0.09192922212068493,No Correlation
+GM Hippocampus entorhinal cortex,-0.06913627105272437,No Correlation
+GM Hippocampus hippocampal-amygdaloid transition area,-0.06341605694610625,No Correlation
+GM Hippocampus subiculum,-0.11823101085675464,No Correlation
+GM Inferior parietal lobule PF,-0.10432942468708852,No Correlation
+GM Inferior parietal lobule PFcm,-0.03564558879141014,No Correlation
+GM Inferior parietal lobule PFm,-0.06337065634030635,No Correlation
+GM Inferior parietal lobule PFop,0.04713930782161721,No Correlation
+GM Inferior parietal lobule PFt,0.03695576517421769,No Correlation
+GM Inferior parietal lobule PGp,0.19082128240676874,No Correlation
+GM Inferior parietal lobule Pga,-0.0017156793876424486,No Correlation
+GM Insula Id1,-0.027645071723475224,No Correlation
+GM Insula Ig1,-0.03608792375789465,No Correlation
+GM Insula Ig2,0.09247673170589904,No Correlation
+GM Lateral geniculate body,-0.11330394513799867,No Correlation
+GM Mamillary body,-0.11965490182629272,No Correlation
+GM Medial geniculate body,-0.18003019256514022,No Correlation
+GM Premotor cortex BA6,0.052792485908883,No Correlation
+GM Primary auditory cortex TE1.0,0.14180106140460857,No Correlation
+GM Primary auditory cortex TE1.1,-0.001252907017169616,No Correlation
+GM Primary auditory cortex TE1.2,0.08827348476319939,No Correlation
+GM Primary motor cortex BA4a,0.046733475074298474,No Correlation
+GM Primary motor cortex BA4p,0.11016300971890698,No Correlation
+GM Primary somatosensory cortex BA1,0.10664025565080835,No Correlation
+GM Primary somatosensory cortex BA2,0.0455177489074576,No Correlation
+GM Primary somatosensory cortex BA3a,0.09243274144441957,No Correlation
+GM Primary somatosensory cortex BA3b,0.10262220493916202,No Correlation
+GM Secondary somatosensory cortex / Parietal operculum OP1,0.07004942451105832,No Correlation
+GM Secondary somatosensory cortex / Parietal operculum OP2,0.061855935771801956,No Correlation
+GM Secondary somatosensory cortex / Parietal operculum OP3,0.028941210584772708,No Correlation
+GM Secondary somatosensory cortex / Parietal operculum OP4,0.09366100090689113,No Correlation
+GM Superior parietal lobule 5Ci,0.16378857240865718,No Correlation
+GM Superior parietal lobule 5L,-0.04975487749081347,No Correlation
+GM Superior parietal lobule 5M,0.04361869987782652,No Correlation
+GM Superior parietal lobule 7A,0.02679871827035007,No Correlation
+GM Superior parietal lobule 7M,0.18424035515912532,No Correlation
+GM Superior parietal lobule 7P,0.11656350354123797,No Correlation
+GM Superior parietal lobule 7PC,0.012239546615494423,No Correlation
+GM Visual cortex V1 BA17,0.19957398716532387,No Correlation
+GM Visual cortex V2 BA18,0.19928168983599806,No Correlation
+GM Visual cortex V3V,0.06815829020224037,No Correlation
+GM Visual cortex V4,0.06571903569142215,No Correlation
+GM Visual cortex V5,0.1489765186763257,No Correlation
+WM Acoustic radiation,0.06170575834939489,No Correlation
+WM Callosal body,-0.05346797650237605,No Correlation
+WM Cingulum,0.05577810333672084,No Correlation
+WM Corticospinal tract,0.01194332961393873,No Correlation
+WM Fornix,-0.08794685887286002,No Correlation
+WM Inferior occipito-frontal fascicle,0.011835223310592776,No Correlation
+WM Optic radiation,0.13701376538750004,No Correlation
+WM Superior longitudinal fascicle,-0.04294385544395241,No Correlation
+WM Superior occipito-frontal fascicle,-0.07927776055911341,No Correlation
+WM Uncinate fascicle,0.02553630589429482,No Correlation

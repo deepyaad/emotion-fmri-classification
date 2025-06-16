@@ -1,22 +1,22 @@
-feature,corrcoef
-Left Cerebral White Matter,0.009412823878442772
-Left Cerebral Cortex ,0.028685055731151404
-Left Lateral Ventrical,-0.05029482822178783
-Left Thalamus,-0.09308169819029413
-Left Caudate,-0.015274572696554302
-Left Putamen,-0.013352655560335576
-Left Pallidum,-0.04813591554318096
-Brain-Stem,-0.09453101941046721
-Left Hippocampus,-0.1322498685372035
-Left Amygdala,-0.0302296850907472
-Left Accumbens,-0.010429451403759855
-Right Cerebral White Matter,0.051444237758157256
-Right Cerebral Cortex ,0.057077051583349726
-Right Lateral Ventricle,-0.0412658407031938
-Right Thalamus,-0.0363607517762487
-Right Caudate,-0.05929690966506382
-Right Putamen,0.028627096290768716
-Right Pallidum,-0.019868302322306842
-Right Hippocampus,-0.030775106541298187
-Right Amygdala,-0.02935096228882281
-Right Accumbens,-0.04506508167364742
+feature,corrcoef,category
+Left Cerebral White Matter,0.009412823878442772,No Correlation
+Left Cerebral Cortex ,0.028685055731151404,No Correlation
+Left Lateral Ventrical,-0.05029482822178783,No Correlation
+Left Thalamus,-0.09308169819029413,No Correlation
+Left Caudate,-0.015274572696554302,No Correlation
+Left Putamen,-0.013352655560335576,No Correlation
+Left Pallidum,-0.04813591554318096,No Correlation
+Brain-Stem,-0.09453101941046721,No Correlation
+Left Hippocampus,-0.1322498685372035,No Correlation
+Left Amygdala,-0.0302296850907472,No Correlation
+Left Accumbens,-0.010429451403759855,No Correlation
+Right Cerebral White Matter,0.051444237758157256,No Correlation
+Right Cerebral Cortex ,0.057077051583349726,No Correlation
+Right Lateral Ventricle,-0.0412658407031938,No Correlation
+Right Thalamus,-0.0363607517762487,No Correlation
+Right Caudate,-0.05929690966506382,No Correlation
+Right Putamen,0.028627096290768716,No Correlation
+Right Pallidum,-0.019868302322306842,No Correlation
+Right Hippocampus,-0.030775106541298187,No Correlation
+Right Amygdala,-0.02935096228882281,No Correlation
+Right Accumbens,-0.04506508167364742,No Correlation

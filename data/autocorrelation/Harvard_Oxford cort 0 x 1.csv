@@ -1,49 +1,49 @@
-feature,corrcoef
-Frontal Pole,-0.03142309306961293
-Insular Cortex,0.02664323391532157
-Superior Frontal Gyrus,-0.04715141123642509
-Middle Frontal Gyrus,-0.034846564406513215
-"Inferior Frontal Gyrus, pars triangularis",-0.154718236941193
-"Inferior Frontal Gyrus, pars opercularis",-0.08845122101258449
-Precentral Gyrus,0.09444530372243738
-Temporal Pole,-0.09539719457391228
-"Superior Temporal Gyrus, anterior division",0.02576050786317949
-"Superior Temporal Gyrus, posterior division",-0.00948719169068517
-"Middle Temporal Gyrus, anterior division",-0.025131178920801172
-"Middle Temporal Gyrus, posterior division",0.08272650203052716
-"Middle Temporal Gyrus, temporooccipital part",0.06328282129038737
-"Inferior Temporal Gyrus, anterior division",0.06798868135705206
-"Inferior Temporal Gyrus, posterior division",0.11873850768597011
-"Inferior Temporal Gyrus, temporooccipital part",0.005035976922127395
-Postcentral Gyrus,0.06802766123976599
-Superior Parietal Lobule,-0.0115323902439763
-"Supramarginal Gyrus, anterior division",-0.038392775913346736
-"Supramarginal Gyrus, posterior division",-0.10680735684869752
-Angular Gyrus,-0.040885563946692294
-"Lateral Occipital Cortex, superior division",0.18283402918676647
-"Lateral Occipital Cortex, inferior division",0.026927938995136035
-Intracalcarine Cortex,0.2005604730193055
-Frontal Medial Cortex,0.0383208313555946
-Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.10268758068995322
-Subcallosal Cortex,-0.0625399226902938
-Paracingulate Gyrus,-0.0032510684821147736
-"Cingulate Gyrus, anterior division",0.05721105662005179
-"Cingulate Gyrus, posterior division",0.008351063317581264
-Precuneous Cortex,0.009006858093691979
-Cuneal Cortex,0.2474337694339727
-Frontal Orbital Cortex,-0.08350448630287051
-"Parahippocampal Gyrus, anterior division",-0.03836951356154268
-"Parahippocampal Gyrus, posterior division",-0.14970506007145626
-Lingual Gyrus,0.1368828881588281
-"Temporal Fusiform Cortex, anterior division",-0.04445521010634034
-"Temporal Fusiform Cortex, posterior division",-0.020039797452843452
-Temporal Occipital Fusiform Cortex,0.1142197510390884
-Occipital Fusiform Gyrus,0.04204563500903354
-Frontal Operculum Cortex,-0.06900307204100728
-Central Opercular Cortex,0.05361098048474927
-Parietal Operculum Cortex,0.007761545838950727
-Planum Polare,0.02625150414520667
-Heschl's Gyrus (includes H1 and H2),0.13603359508813642
-Planum Temporale,0.02136186996668589
-Supracalcarine Cortex,0.19622267459167483
-Occipital Pole,0.09601327392566858
+feature,corrcoef,category
+Frontal Pole,-0.03142309306961293,No Correlation
+Insular Cortex,0.02664323391532157,No Correlation
+Superior Frontal Gyrus,-0.04715141123642509,No Correlation
+Middle Frontal Gyrus,-0.034846564406513215,No Correlation
+"Inferior Frontal Gyrus, pars triangularis",-0.154718236941193,No Correlation
+"Inferior Frontal Gyrus, pars opercularis",-0.08845122101258449,No Correlation
+Precentral Gyrus,0.09444530372243738,No Correlation
+Temporal Pole,-0.09539719457391228,No Correlation
+"Superior Temporal Gyrus, anterior division",0.02576050786317949,No Correlation
+"Superior Temporal Gyrus, posterior division",-0.00948719169068517,No Correlation
+"Middle Temporal Gyrus, anterior division",-0.025131178920801172,No Correlation
+"Middle Temporal Gyrus, posterior division",0.08272650203052716,No Correlation
+"Middle Temporal Gyrus, temporooccipital part",0.06328282129038737,No Correlation
+"Inferior Temporal Gyrus, anterior division",0.06798868135705206,No Correlation
+"Inferior Temporal Gyrus, posterior division",0.11873850768597011,No Correlation
+"Inferior Temporal Gyrus, temporooccipital part",0.005035976922127395,No Correlation
+Postcentral Gyrus,0.06802766123976599,No Correlation
+Superior Parietal Lobule,-0.0115323902439763,No Correlation
+"Supramarginal Gyrus, anterior division",-0.038392775913346736,No Correlation
+"Supramarginal Gyrus, posterior division",-0.10680735684869752,No Correlation
+Angular Gyrus,-0.040885563946692294,No Correlation
+"Lateral Occipital Cortex, superior division",0.18283402918676647,No Correlation
+"Lateral Occipital Cortex, inferior division",0.026927938995136035,No Correlation
+Intracalcarine Cortex,0.2005604730193055,No Correlation
+Frontal Medial Cortex,0.0383208313555946,No Correlation
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.10268758068995322,No Correlation
+Subcallosal Cortex,-0.0625399226902938,No Correlation
+Paracingulate Gyrus,-0.0032510684821147736,No Correlation
+"Cingulate Gyrus, anterior division",0.05721105662005179,No Correlation
+"Cingulate Gyrus, posterior division",0.008351063317581264,No Correlation
+Precuneous Cortex,0.009006858093691979,No Correlation
+Cuneal Cortex,0.2474337694339727,No Correlation
+Frontal Orbital Cortex,-0.08350448630287051,No Correlation
+"Parahippocampal Gyrus, anterior division",-0.03836951356154268,No Correlation
+"Parahippocampal Gyrus, posterior division",-0.14970506007145626,No Correlation
+Lingual Gyrus,0.1368828881588281,No Correlation
+"Temporal Fusiform Cortex, anterior division",-0.04445521010634034,No Correlation
+"Temporal Fusiform Cortex, posterior division",-0.020039797452843452,No Correlation
+Temporal Occipital Fusiform Cortex,0.1142197510390884,No Correlation
+Occipital Fusiform Gyrus,0.04204563500903354,No Correlation
+Frontal Operculum Cortex,-0.06900307204100728,No Correlation
+Central Opercular Cortex,0.05361098048474927,No Correlation
+Parietal Operculum Cortex,0.007761545838950727,No Correlation
+Planum Polare,0.02625150414520667,No Correlation
+Heschl's Gyrus (includes H1 and H2),0.13603359508813642,No Correlation
+Planum Temporale,0.02136186996668589,No Correlation
+Supracalcarine Cortex,0.19622267459167483,No Correlation
+Occipital Pole,0.09601327392566858,No Correlation

@@ -1,4 +1,4 @@
-feature,corrcoef
-Feat 1,-0.27590422141833015
-Feat 2,-0.01117583700222688
-Feat 3,-0.22506576173945836
+feature,corrcoef,category
+Feat 1,-0.27590422141833015,Weak Negative
+Feat 2,-0.01117583700222688,No Correlation
+Feat 3,-0.22506576173945836,No Correlation

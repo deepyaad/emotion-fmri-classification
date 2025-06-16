@@ -1,56 +1,56 @@
-feature,corrcoef
-Inferior Semi-Lunar Lobule,-0.04538420895421473
-Cerebellar Tonsil,0.006487875713961295
-Inferior Temporal Gyrus,0.1194950979641442
-Uncus,-0.05308361390923981
-Middle Temporal Gyrus,0.10259362524624518
-Superior Temporal Gyrus,-0.019336119332376132
-Sub-Gyral,-0.021739528813898228
-Pyramis,-0.05458728405642434
-Uvula,-0.14843317963895708
-Uvula of Vermis,0.09396947261997317
-Fourth Ventricle,-0.08706486045774282
-Tuber,-0.16095133400268036
-Pyramis of Vermis,0.09483574493402386
-Nodule,-0.029484261973221505
-Culmen,-0.0557445107850379
-Orbital Gyrus,0.042761369269899305
-Tuber of Vermis,-0.0013795574214098805
-Fusiform Gyrus,0.06709480835738853
-Parahippocampal Gyrus,-0.0489598521198689
-Rectal Gyrus,0.014023226846840276
-Superior Frontal Gyrus,-0.04957701505940116
-Declive,0.03673647490643814
-Declive of Vermis,0.00494312936166702
-Fastigium,-0.12114017599512909
-Lateral Ventricle,-0.07120372232842764
-Inferior Frontal Gyrus,-0.10754331692431145
-Middle Frontal Gyrus,-0.005738960628111415
-Cerebellar Lingual,-0.20758838251833683
-Medial Frontal Gyrus,0.008031519205610757
-Lingual Gyrus,0.20275933530304976
-Inferior Occipital Gyrus,-0.0224489970274283
-Subcallosal Gyrus,-0.07285723738236541
-Middle Occipital Gyrus,0.23603063105019134
-Culmen of Vermis,0.08724902929940351
-Extra-Nuclear,-0.056316626522569004
-Caudate,-0.010531824132479337
-Third Ventricle,0.00455887469754711
-Anterior Cingulate,0.006323368289251663
-Lentiform Nucleus,-0.02060531203644392
-Thalamus,-0.05407363492402626
-Insula,0.05173039366052612
-Claustrum,0.04116278086176429
-Cuneus,0.2671054138919643
-Posterior Cingulate,0.04367335267847861
-Precentral Gyrus,0.09423623440184396
-Transverse Temporal Gyrus,0.09633539562961613
-Postcentral Gyrus,0.07547870866034408
-Precuneus,0.0675498525774448
-Superior Occipital Gyrus,0.13468543924366533
-Supramarginal Gyrus,-0.08948311437658633
-Inferior Parietal Lobule,-0.04784227733772607
-Cingulate Gyrus,0.09022265801429442
-Angular Gyrus,0.06843407712620173
-Superior Parietal Lobule,0.03222297376411606
-Paracentral Lobule,0.01360452091699864
+feature,corrcoef,category
+Inferior Semi-Lunar Lobule,-0.04538420895421473,No Correlation
+Cerebellar Tonsil,0.006487875713961295,No Correlation
+Inferior Temporal Gyrus,0.1194950979641442,No Correlation
+Uncus,-0.05308361390923981,No Correlation
+Middle Temporal Gyrus,0.10259362524624518,No Correlation
+Superior Temporal Gyrus,-0.019336119332376132,No Correlation
+Sub-Gyral,-0.021739528813898228,No Correlation
+Pyramis,-0.05458728405642434,No Correlation
+Uvula,-0.14843317963895708,No Correlation
+Uvula of Vermis,0.09396947261997317,No Correlation
+Fourth Ventricle,-0.08706486045774282,No Correlation
+Tuber,-0.16095133400268036,No Correlation
+Pyramis of Vermis,0.09483574493402386,No Correlation
+Nodule,-0.029484261973221505,No Correlation
+Culmen,-0.0557445107850379,No Correlation
+Orbital Gyrus,0.042761369269899305,No Correlation
+Tuber of Vermis,-0.0013795574214098805,No Correlation
+Fusiform Gyrus,0.06709480835738853,No Correlation
+Parahippocampal Gyrus,-0.0489598521198689,No Correlation
+Rectal Gyrus,0.014023226846840276,No Correlation
+Superior Frontal Gyrus,-0.04957701505940116,No Correlation
+Declive,0.03673647490643814,No Correlation
+Declive of Vermis,0.00494312936166702,No Correlation
+Fastigium,-0.12114017599512909,No Correlation
+Lateral Ventricle,-0.07120372232842764,No Correlation
+Inferior Frontal Gyrus,-0.10754331692431145,No Correlation
+Middle Frontal Gyrus,-0.005738960628111415,No Correlation
+Cerebellar Lingual,-0.20758838251833683,No Correlation
+Medial Frontal Gyrus,0.008031519205610757,No Correlation
+Lingual Gyrus,0.20275933530304976,No Correlation
+Inferior Occipital Gyrus,-0.0224489970274283,No Correlation
+Subcallosal Gyrus,-0.07285723738236541,No Correlation
+Middle Occipital Gyrus,0.23603063105019134,No Correlation
+Culmen of Vermis,0.08724902929940351,No Correlation
+Extra-Nuclear,-0.056316626522569004,No Correlation
+Caudate,-0.010531824132479337,No Correlation
+Third Ventricle,0.00455887469754711,No Correlation
+Anterior Cingulate,0.006323368289251663,No Correlation
+Lentiform Nucleus,-0.02060531203644392,No Correlation
+Thalamus,-0.05407363492402626,No Correlation
+Insula,0.05173039366052612,No Correlation
+Claustrum,0.04116278086176429,No Correlation
+Cuneus,0.2671054138919643,Weak Positive
+Posterior Cingulate,0.04367335267847861,No Correlation
+Precentral Gyrus,0.09423623440184396,No Correlation
+Transverse Temporal Gyrus,0.09633539562961613,No Correlation
+Postcentral Gyrus,0.07547870866034408,No Correlation
+Precuneus,0.0675498525774448,No Correlation
+Superior Occipital Gyrus,0.13468543924366533,No Correlation
+Supramarginal Gyrus,-0.08948311437658633,No Correlation
+Inferior Parietal Lobule,-0.04784227733772607,No Correlation
+Cingulate Gyrus,0.09022265801429442,No Correlation
+Angular Gyrus,0.06843407712620173,No Correlation
+Superior Parietal Lobule,0.03222297376411606,No Correlation
+Paracentral Lobule,0.01360452091699864,No Correlation
