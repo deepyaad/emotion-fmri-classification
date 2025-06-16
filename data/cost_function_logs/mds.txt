@@ -1,162 +1,162 @@
 Round: 1
-Components: 1, Error: 4155494095.6507573
+Components: 1, Error: 4254511075.0633903
 
 Round: 6
-Components: 6, Error: 327866376.67038655
+Components: 6, Error: 326327344.4136024
 
 Round: 11
-Components: 11, Error: 132357008.65455484
+Components: 11, Error: 134048394.21053189
 
 Round: 16
-Components: 16, Error: 74906919.88614644
+Components: 16, Error: 76654085.63477731
 
 Round: 21
-Components: 21, Error: 49982451.48599232
+Components: 21, Error: 50621695.70121377
 
 Round: 26
-Components: 26, Error: 35911916.271492906
+Components: 26, Error: 36688462.89656901
 
 Round: 31
-Components: 31, Error: 27587014.58913129
+Components: 31, Error: 27997225.893946104
 
 Round: 36
-Components: 36, Error: 22038583.22229308
+Components: 36, Error: 22172066.48906344
 
 Round: 41
-Components: 41, Error: 17864703.49061223
+Components: 41, Error: 18021314.491093516
 
 Round: 46
-Components: 46, Error: 14820616.22066423
+Components: 46, Error: 14808490.443949632
 
 Round: 51
-Components: 51, Error: 12671035.312074436
+Components: 51, Error: 12549011.196092047
 
 Round: 56
-Components: 56, Error: 10695623.5704359
+Components: 56, Error: 10571539.850315748
 
 Round: 61
-Components: 61, Error: 9600117.900033731
+Components: 61, Error: 9479629.232120404
 
 Round: 66
-Components: 66, Error: 8443952.988643818
+Components: 66, Error: 8397217.41358545
 
 Round: 71
-Components: 71, Error: 7551511.016907396
+Components: 71, Error: 7607468.504778135
 
 Round: 76
-Components: 76, Error: 6777679.137060697
+Components: 76, Error: 6849855.663460902
 
 Round: 81
-Components: 81, Error: 6168995.0962983575
+Components: 81, Error: 6080859.359304393
 
 Round: 86
-Components: 86, Error: 5642648.567094587
+Components: 86, Error: 5642769.343580123
 
 Round: 91
-Components: 91, Error: 5067066.156982702
+Components: 91, Error: 5151813.344014149
 
 Round: 96
-Components: 96, Error: 4727009.8666440165
+Components: 96, Error: 4709684.021572542
 
 Round: 101
-Components: 101, Error: 4398997.455948212
+Components: 101, Error: 4415751.536700635
 
 Round: 106
-Components: 106, Error: 4159691.964569855
+Components: 106, Error: 4130511.2908433415
 
 Round: 111
-Components: 111, Error: 3852841.323111272
+Components: 111, Error: 3819089.483504452
 
 Round: 116
-Components: 116, Error: 3645498.5706761433
+Components: 116, Error: 3581953.212975026
 
 Round: 121
-Components: 121, Error: 3435074.8358811433
+Components: 121, Error: 3435117.578098449
 
 Round: 126
-Components: 126, Error: 3146559.6517621996
+Components: 126, Error: 3139289.4528339626
 
 Round: 131
-Components: 131, Error: 3056577.595069715
+Components: 131, Error: 3040948.5583715495
 
 Round: 136
-Components: 136, Error: 2925212.385286385
+Components: 136, Error: 2893265.7525842665
 
 Round: 141
-Components: 141, Error: 2784459.957076554
+Components: 141, Error: 2806671.1452285205
 
 Round: 146
-Components: 146, Error: 2659587.4207145087
+Components: 146, Error: 2621629.514625012
 
 Round: 151
-Components: 151, Error: 2512531.6278959042
+Components: 151, Error: 2582381.41878312
 
 Round: 156
-Components: 156, Error: 2455871.9005648335
+Components: 156, Error: 2443561.464615417
 
 Round: 161
-Components: 161, Error: 2340903.9838337516
+Components: 161, Error: 2325012.417386477
 
 Round: 166
-Components: 166, Error: 2282211.3688653586
+Components: 166, Error: 2242380.815412884
 
 Round: 171
-Components: 171, Error: 2161466.81185399
+Components: 171, Error: 2204454.1977523887
 
 Round: 176
-Components: 176, Error: 2107083.2941381815
+Components: 176, Error: 2106972.576931539
 
 Round: 181
-Components: 181, Error: 2062965.512950905
+Components: 181, Error: 2065252.3570960201
 
 Round: 186
-Components: 186, Error: 2004271.7544575562
+Components: 186, Error: 1967931.6998854047
 
 Round: 191
-Components: 191, Error: 1920341.422710022
+Components: 191, Error: 1927692.2539357438
 
 Round: 196
-Components: 196, Error: 1889378.1743577796
+Components: 196, Error: 1883958.7252150003
 
 Round: 201
-Components: 201, Error: 1846911.6300884536
+Components: 201, Error: 1845132.837180404
 
 Round: 206
-Components: 206, Error: 1823387.1976191357
+Components: 206, Error: 1813700.242332644
 
 Round: 211
-Components: 211, Error: 1763999.3601859757
+Components: 211, Error: 1749374.374970949
 
 Round: 216
-Components: 216, Error: 1719292.3403669943
+Components: 216, Error: 1726063.3493612348
 
 Round: 221
-Components: 221, Error: 1701153.517677938
+Components: 221, Error: 1676396.2036734708
 
 Round: 226
-Components: 226, Error: 1667572.544671558
+Components: 226, Error: 1669725.3909822996
 
 Round: 231
-Components: 231, Error: 1602888.9696607501
+Components: 231, Error: 1602558.254070721
 
 Round: 236
-Components: 236, Error: 1594278.9293891687
+Components: 236, Error: 1590427.430610776
 
 Round: 241
-Components: 241, Error: 1569125.5000226474
+Components: 241, Error: 1573556.5635951923
 
 Round: 246
-Components: 246, Error: 1523593.9446034401
+Components: 246, Error: 1558409.6057365253
 
 Round: 251
-Components: 251, Error: 1493134.3818658527
+Components: 251, Error: 1510866.6740783812
 
 Round: 256
-Components: 256, Error: 1472870.923997255
+Components: 256, Error: 1458686.6824846587
 
 Round: 261
-Components: 261, Error: 1461130.506550498
+Components: 261, Error: 1455470.3878142987
 
 Round: 266
-Components: 266, Error: 1421204.0263635137
+Components: 266, Error: 1442107.0827479167
 

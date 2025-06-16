@@ -1,0 +1,614 @@
+feature,p_value,method
+Frontal Pole,0.23555783186104476,Harvard_Oxford cort 0 x 1
+Insular Cortex,0.231784780121893,Harvard_Oxford cort 0 x 1
+Superior Frontal Gyrus,0.060410472489813814,Harvard_Oxford cort 0 x 1
+Middle Frontal Gyrus,0.17113392221452073,Harvard_Oxford cort 0 x 1
+"Inferior Frontal Gyrus, pars triangularis",0.08338285776370719,Harvard_Oxford cort 0 x 1
+"Inferior Frontal Gyrus, pars opercularis",0.016373865855147964,Harvard_Oxford cort 0 x 1
+Precentral Gyrus,0.7240704233954365,Harvard_Oxford cort 0 x 1
+Temporal Pole,0.14366804280362822,Harvard_Oxford cort 0 x 1
+"Superior Temporal Gyrus, anterior division",0.381075651727647,Harvard_Oxford cort 0 x 1
+"Superior Temporal Gyrus, posterior division",0.28261075575280936,Harvard_Oxford cort 0 x 1
+"Middle Temporal Gyrus, anterior division",0.153102071012575,Harvard_Oxford cort 0 x 1
+"Middle Temporal Gyrus, posterior division",0.25599935892680287,Harvard_Oxford cort 0 x 1
+"Middle Temporal Gyrus, temporooccipital part",0.2963569651722041,Harvard_Oxford cort 0 x 1
+"Inferior Temporal Gyrus, anterior division",0.027888601718941877,Harvard_Oxford cort 0 x 1
+"Inferior Temporal Gyrus, posterior division",0.3537601781922409,Harvard_Oxford cort 0 x 1
+"Inferior Temporal Gyrus, temporooccipital part",0.12271188887615532,Harvard_Oxford cort 0 x 1
+Postcentral Gyrus,0.8666584777521769,Harvard_Oxford cort 0 x 1
+Superior Parietal Lobule,0.27117046965782166,Harvard_Oxford cort 0 x 1
+"Supramarginal Gyrus, anterior division",0.3499084293756342,Harvard_Oxford cort 0 x 1
+"Supramarginal Gyrus, posterior division",0.1625154239283267,Harvard_Oxford cort 0 x 1
+Angular Gyrus,0.117829415589179,Harvard_Oxford cort 0 x 1
+"Lateral Occipital Cortex, superior division",0.03613889305029398,Harvard_Oxford cort 0 x 1
+"Lateral Occipital Cortex, inferior division",0.02708759095657248,Harvard_Oxford cort 0 x 1
+Intracalcarine Cortex,0.47373449271727364,Harvard_Oxford cort 0 x 1
+Frontal Medial Cortex,0.034574856096679006,Harvard_Oxford cort 0 x 1
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.9939724549779241,Harvard_Oxford cort 0 x 1
+Subcallosal Cortex,0.0023362589573381245,Harvard_Oxford cort 0 x 1
+Paracingulate Gyrus,0.23031601435580862,Harvard_Oxford cort 0 x 1
+"Cingulate Gyrus, anterior division",0.8288960850320198,Harvard_Oxford cort 0 x 1
+"Cingulate Gyrus, posterior division",0.04533993475088388,Harvard_Oxford cort 0 x 1
+Precuneous Cortex,0.012101438308528993,Harvard_Oxford cort 0 x 1
+Cuneal Cortex,0.08910451190503232,Harvard_Oxford cort 0 x 1
+Frontal Orbital Cortex,0.04922915769850821,Harvard_Oxford cort 0 x 1
+"Parahippocampal Gyrus, anterior division",0.09595674730259568,Harvard_Oxford cort 0 x 1
+"Parahippocampal Gyrus, posterior division",0.9227842678824508,Harvard_Oxford cort 0 x 1
+Lingual Gyrus,0.9292731747249037,Harvard_Oxford cort 0 x 1
+"Temporal Fusiform Cortex, anterior division",0.013158316713746461,Harvard_Oxford cort 0 x 1
+"Temporal Fusiform Cortex, posterior division",0.29558289131698284,Harvard_Oxford cort 0 x 1
+Temporal Occipital Fusiform Cortex,0.607375228256603,Harvard_Oxford cort 0 x 1
+Occipital Fusiform Gyrus,0.6735129844736598,Harvard_Oxford cort 0 x 1
+Frontal Operculum Cortex,0.3002809704656374,Harvard_Oxford cort 0 x 1
+Central Opercular Cortex,0.15681403799961124,Harvard_Oxford cort 0 x 1
+Parietal Operculum Cortex,0.4693802903906419,Harvard_Oxford cort 0 x 1
+Planum Polare,0.1618285775531597,Harvard_Oxford cort 0 x 1
+Heschl's Gyrus (includes H1 and H2),0.17805254736736495,Harvard_Oxford cort 0 x 1
+Planum Temporale,0.4509509502738872,Harvard_Oxford cort 0 x 1
+Supracalcarine Cortex,0.3027693352010633,Harvard_Oxford cort 0 x 1
+Occipital Pole,0.9497416979628847,Harvard_Oxford cort 0 x 1
+Left Frontal Pole,0.29085678211478255,Harvard_Oxford cortl 0 x 1
+Right Frontal Pole,0.1552838185760227,Harvard_Oxford cortl 0 x 1
+Left Insular Cortex,0.15474777467354675,Harvard_Oxford cortl 0 x 1
+Right Insular Cortex,0.498522526447551,Harvard_Oxford cortl 0 x 1
+Left Superior Frontal Gyrus,0.10200788440498598,Harvard_Oxford cortl 0 x 1
+Right Superior Frontal Gyrus,0.02686162190953318,Harvard_Oxford cortl 0 x 1
+Left Middle Frontal Gyrus,0.2047666556873845,Harvard_Oxford cortl 0 x 1
+Right Middle Frontal Gyrus,0.12245415825951292,Harvard_Oxford cortl 0 x 1
+"Left Inferior Frontal Gyrus, pars triangularis",0.05576342708246719,Harvard_Oxford cortl 0 x 1
+"Right Inferior Frontal Gyrus, pars triangularis",0.06369736804403844,Harvard_Oxford cortl 0 x 1
+"Left Inferior Frontal Gyrus, pars opercularis",0.034544878048528974,Harvard_Oxford cortl 0 x 1
+"Right Inferior Frontal Gyrus, pars opercularis",0.033781075415391895,Harvard_Oxford cortl 0 x 1
+Left Precentral Gyrus,0.7396748750525075,Harvard_Oxford cortl 0 x 1
+Right Precentral Gyrus,0.6827296968740684,Harvard_Oxford cortl 0 x 1
+Left Temporal Pole,0.14248207039167451,Harvard_Oxford cortl 0 x 1
+Right Temporal Pole,0.07130116380112174,Harvard_Oxford cortl 0 x 1
+"Left Superior Temporal Gyrus, anterior division",0.10921115186330166,Harvard_Oxford cortl 0 x 1
+"Right Superior Temporal Gyrus, anterior division",0.5814572533337656,Harvard_Oxford cortl 0 x 1
+"Left Superior Temporal Gyrus, posterior division",0.6577602255597499,Harvard_Oxford cortl 0 x 1
+"Right Superior Temporal Gyrus, posterior division",0.07871701549315135,Harvard_Oxford cortl 0 x 1
+"Left Middle Temporal Gyrus, anterior division",0.1459939969969298,Harvard_Oxford cortl 0 x 1
+"Right Middle Temporal Gyrus, anterior division",0.0613901758872525,Harvard_Oxford cortl 0 x 1
+"Left Middle Temporal Gyrus, posterior division",0.5457212212278012,Harvard_Oxford cortl 0 x 1
+"Right Middle Temporal Gyrus, posterior division",0.23562754285157267,Harvard_Oxford cortl 0 x 1
+"Left Middle Temporal Gyrus, temporooccipital part",0.1351352731173213,Harvard_Oxford cortl 0 x 1
+"Right Middle Temporal Gyrus, temporooccipital part",0.061618258782084635,Harvard_Oxford cortl 0 x 1
+"Left Inferior Temporal Gyrus, anterior division",0.033221076976065606,Harvard_Oxford cortl 0 x 1
+"Right Inferior Temporal Gyrus, anterior division",0.00245056802100516,Harvard_Oxford cortl 0 x 1
+"Left Inferior Temporal Gyrus, posterior division",0.48173898574119745,Harvard_Oxford cortl 0 x 1
+"Right Inferior Temporal Gyrus, posterior division",0.2909553624936397,Harvard_Oxford cortl 0 x 1
+"Left Inferior Temporal Gyrus, temporooccipital part",0.06182135065643139,Harvard_Oxford cortl 0 x 1
+"Right Inferior Temporal Gyrus, temporooccipital part",0.20462663522510605,Harvard_Oxford cortl 0 x 1
+Left Postcentral Gyrus,0.9015348180458962,Harvard_Oxford cortl 0 x 1
+Right Postcentral Gyrus,0.8252088433127782,Harvard_Oxford cortl 0 x 1
+Left Superior Parietal Lobule,0.4213196819616484,Harvard_Oxford cortl 0 x 1
+Right Superior Parietal Lobule,0.3054896510340382,Harvard_Oxford cortl 0 x 1
+"Left Supramarginal Gyrus, anterior division",0.11338976754524653,Harvard_Oxford cortl 0 x 1
+"Right Supramarginal Gyrus, anterior division",0.6418619410457049,Harvard_Oxford cortl 0 x 1
+"Left Supramarginal Gyrus, posterior division",0.11882530369753487,Harvard_Oxford cortl 0 x 1
+"Right Supramarginal Gyrus, posterior division",0.1256602046125067,Harvard_Oxford cortl 0 x 1
+Left Angular Gyrus,0.6421642035586967,Harvard_Oxford cortl 0 x 1
+Right Angular Gyrus,0.0045910514344011995,Harvard_Oxford cortl 0 x 1
+"Left Lateral Occipital Cortex, superior division",0.21236602197423088,Harvard_Oxford cortl 0 x 1
+"Right Lateral Occipital Cortex, superior division",0.030373677804336523,Harvard_Oxford cortl 0 x 1
+"Left Lateral Occipital Cortex, inferior division",0.019719052599946447,Harvard_Oxford cortl 0 x 1
+"Right Lateral Occipital Cortex, inferior division",0.023723286569557956,Harvard_Oxford cortl 0 x 1
+Left Intracalcarine Cortex,0.6064784428152578,Harvard_Oxford cortl 0 x 1
+Right Intracalcarine Cortex,0.3279897072688104,Harvard_Oxford cortl 0 x 1
+Left Frontal Medial Cortex,0.04071397729538686,Harvard_Oxford cortl 0 x 1
+Right Frontal Medial Cortex,0.027607616080988592,Harvard_Oxford cortl 0 x 1
+Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.941447270423789,Harvard_Oxford cortl 0 x 1
+Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.951887785368589,Harvard_Oxford cortl 0 x 1
+Left Subcallosal Cortex,0.0032703752490081082,Harvard_Oxford cortl 0 x 1
+Right Subcallosal Cortex,0.001981240246734388,Harvard_Oxford cortl 0 x 1
+Left Paracingulate Gyrus,0.2142467091746902,Harvard_Oxford cortl 0 x 1
+Right Paracingulate Gyrus,0.19980827247482516,Harvard_Oxford cortl 0 x 1
+"Left Cingulate Gyrus, anterior division",0.6888769549015299,Harvard_Oxford cortl 0 x 1
+"Right Cingulate Gyrus, anterior division",0.8480618960671549,Harvard_Oxford cortl 0 x 1
+"Left Cingulate Gyrus, posterior division",0.09663438907166318,Harvard_Oxford cortl 0 x 1
+"Right Cingulate Gyrus, posterior division",0.01761890276768295,Harvard_Oxford cortl 0 x 1
+Left Precuneous Cortex,0.035936366008185734,Harvard_Oxford cortl 0 x 1
+Right Precuneous Cortex,0.009162574235743069,Harvard_Oxford cortl 0 x 1
+Left Cuneal Cortex,0.04955535895812382,Harvard_Oxford cortl 0 x 1
+Right Cuneal Cortex,0.10459304370901353,Harvard_Oxford cortl 0 x 1
+Left Frontal Orbital Cortex,0.019156420748286804,Harvard_Oxford cortl 0 x 1
+Right Frontal Orbital Cortex,0.15744608528314205,Harvard_Oxford cortl 0 x 1
+"Left Parahippocampal Gyrus, anterior division",0.11066029779733266,Harvard_Oxford cortl 0 x 1
+"Right Parahippocampal Gyrus, anterior division",0.16656649184873282,Harvard_Oxford cortl 0 x 1
+"Left Parahippocampal Gyrus, posterior division",0.8164978898683608,Harvard_Oxford cortl 0 x 1
+"Right Parahippocampal Gyrus, posterior division",0.4530359459074885,Harvard_Oxford cortl 0 x 1
+Left Lingual Gyrus,0.9740267295094847,Harvard_Oxford cortl 0 x 1
+Right Lingual Gyrus,0.7085244174119132,Harvard_Oxford cortl 0 x 1
+"Left Temporal Fusiform Cortex, anterior division",0.019920917558901553,Harvard_Oxford cortl 0 x 1
+"Right Temporal Fusiform Cortex, anterior division",0.01001139837051779,Harvard_Oxford cortl 0 x 1
+"Left Temporal Fusiform Cortex, posterior division",0.4151211059573997,Harvard_Oxford cortl 0 x 1
+"Right Temporal Fusiform Cortex, posterior division",0.18595249569786515,Harvard_Oxford cortl 0 x 1
+Left Temporal Occipital Fusiform Cortex,0.778756058422161,Harvard_Oxford cortl 0 x 1
+Right Temporal Occipital Fusiform Cortex,0.18340794296547824,Harvard_Oxford cortl 0 x 1
+Left Occipital Fusiform Gyrus,0.7367107308771155,Harvard_Oxford cortl 0 x 1
+Right Occipital Fusiform Gyrus,0.4893077228782512,Harvard_Oxford cortl 0 x 1
+Left Frontal Operculum Cortex,0.32418774938460754,Harvard_Oxford cortl 0 x 1
+Right Frontal Operculum Cortex,0.18794818223569368,Harvard_Oxford cortl 0 x 1
+Left Central Opercular Cortex,0.11496381253831871,Harvard_Oxford cortl 0 x 1
+Right Central Opercular Cortex,0.3394061084147169,Harvard_Oxford cortl 0 x 1
+Left Parietal Operculum Cortex,0.2902097303024913,Harvard_Oxford cortl 0 x 1
+Right Parietal Operculum Cortex,0.6662969803213133,Harvard_Oxford cortl 0 x 1
+Left Planum Polare,0.029074710038961473,Harvard_Oxford cortl 0 x 1
+Right Planum Polare,0.5632634900334821,Harvard_Oxford cortl 0 x 1
+Left Heschl's Gyrus (includes H1 and H2),0.18060568214725928,Harvard_Oxford cortl 0 x 1
+Right Heschl's Gyrus (includes H1 and H2),0.16013444221832993,Harvard_Oxford cortl 0 x 1
+Left Planum Temporale,0.31329754068808313,Harvard_Oxford cortl 0 x 1
+Right Planum Temporale,0.6341279737192989,Harvard_Oxford cortl 0 x 1
+Left Supracalcarine Cortex,0.26793236033899825,Harvard_Oxford cortl 0 x 1
+Right Supracalcarine Cortex,0.3364218183868498,Harvard_Oxford cortl 0 x 1
+Left Occipital Pole,0.952912861847917,Harvard_Oxford cortl 0 x 1
+Right Occipital Pole,0.8769593241876507,Harvard_Oxford cortl 0 x 1
+Left Cerebral White Matter,0.04403346202918168,Harvard_Oxford sub 0 x 1
+Left Cerebral Cortex ,0.05084441970986029,Harvard_Oxford sub 0 x 1
+Left Lateral Ventrical,0.13733697157747096,Harvard_Oxford sub 0 x 1
+Left Thalamus,0.5261359807756381,Harvard_Oxford sub 0 x 1
+Left Caudate,0.027797763175529254,Harvard_Oxford sub 0 x 1
+Left Putamen,0.09687585290485104,Harvard_Oxford sub 0 x 1
+Left Pallidum,0.04730031600969274,Harvard_Oxford sub 0 x 1
+Brain-Stem,0.10222018129888874,Harvard_Oxford sub 0 x 1
+Left Hippocampus,0.04069222596771101,Harvard_Oxford sub 0 x 1
+Left Amygdala,0.16403619402796113,Harvard_Oxford sub 0 x 1
+Left Accumbens,0.007467025993335844,Harvard_Oxford sub 0 x 1
+Right Cerebral White Matter,0.11133719633821858,Harvard_Oxford sub 0 x 1
+Right Cerebral Cortex ,0.08667673819083258,Harvard_Oxford sub 0 x 1
+Right Lateral Ventricle,0.4729579397217646,Harvard_Oxford sub 0 x 1
+Right Thalamus,0.5250080622728395,Harvard_Oxford sub 0 x 1
+Right Caudate,0.26990805168935156,Harvard_Oxford sub 0 x 1
+Right Putamen,0.10298252238908237,Harvard_Oxford sub 0 x 1
+Right Pallidum,0.16663503301354612,Harvard_Oxford sub 0 x 1
+Right Hippocampus,0.4931568781332277,Harvard_Oxford sub 0 x 1
+Right Amygdala,0.6882643872448373,Harvard_Oxford sub 0 x 1
+Right Accumbens,0.026144630378013994,Harvard_Oxford sub 0 x 1
+GM Amygdala_centromedial group,0.43655000282146983,Juelich 0 x 1
+GM Amygdala_laterobasal group,0.23258615048185496,Juelich 0 x 1
+GM Amygdala_superficial group,0.46132066500828905,Juelich 0 x 1
+GM Anterior intra-parietal sulcus hIP1,0.029363977984341177,Juelich 0 x 1
+GM Anterior intra-parietal sulcus hIP2,0.057109693672632834,Juelich 0 x 1
+GM Anterior intra-parietal sulcus hIP3,0.11779056395121171,Juelich 0 x 1
+GM Broca's area BA44,0.06134056801360712,Juelich 0 x 1
+GM Broca's area BA45,0.0978700250925308,Juelich 0 x 1
+GM Hippocampus cornu ammonis,0.28060296030651544,Juelich 0 x 1
+GM Hippocampus dentate gyrus,0.18585449716031222,Juelich 0 x 1
+GM Hippocampus entorhinal cortex,0.08166216260526374,Juelich 0 x 1
+GM Hippocampus hippocampal-amygdaloid transition area,0.09843575040679746,Juelich 0 x 1
+GM Hippocampus subiculum,0.45756509342627616,Juelich 0 x 1
+GM Inferior parietal lobule PF,0.2515213568024685,Juelich 0 x 1
+GM Inferior parietal lobule PFcm,0.6744046704938997,Juelich 0 x 1
+GM Inferior parietal lobule PFm,0.08261803409135587,Juelich 0 x 1
+GM Inferior parietal lobule PFop,0.6277404967285957,Juelich 0 x 1
+GM Inferior parietal lobule PFt,0.3433276859704388,Juelich 0 x 1
+GM Inferior parietal lobule PGp,0.0014855590537533943,Juelich 0 x 1
+GM Inferior parietal lobule Pga,0.0401721367667043,Juelich 0 x 1
+GM Insula Id1,0.20579197003883776,Juelich 0 x 1
+GM Insula Ig1,0.24123261175462868,Juelich 0 x 1
+GM Insula Ig2,0.17893668431283066,Juelich 0 x 1
+GM Lateral geniculate body,0.8442638718681146,Juelich 0 x 1
+GM Mamillary body,0.027102368325655345,Juelich 0 x 1
+GM Medial geniculate body,0.7187942751532809,Juelich 0 x 1
+GM Premotor cortex BA6,0.3622358243940155,Juelich 0 x 1
+GM Primary auditory cortex TE1.0,0.20432099625052097,Juelich 0 x 1
+GM Primary auditory cortex TE1.1,0.3430172728007867,Juelich 0 x 1
+GM Primary auditory cortex TE1.2,0.3772396379670565,Juelich 0 x 1
+GM Primary motor cortex BA4a,0.3799720860826491,Juelich 0 x 1
+GM Primary motor cortex BA4p,0.6685538883654598,Juelich 0 x 1
+GM Primary somatosensory cortex BA1,0.974661097064284,Juelich 0 x 1
+GM Primary somatosensory cortex BA2,0.5942032628877265,Juelich 0 x 1
+GM Primary somatosensory cortex BA3a,0.508532175713925,Juelich 0 x 1
+GM Primary somatosensory cortex BA3b,0.6049394141889155,Juelich 0 x 1
+GM Secondary somatosensory cortex / Parietal operculum OP1,0.26341185921314947,Juelich 0 x 1
+GM Secondary somatosensory cortex / Parietal operculum OP2,0.2968612559564361,Juelich 0 x 1
+GM Secondary somatosensory cortex / Parietal operculum OP3,0.22882625710754997,Juelich 0 x 1
+GM Secondary somatosensory cortex / Parietal operculum OP4,0.27849206034381324,Juelich 0 x 1
+GM Superior parietal lobule 5Ci,0.19665321816939949,Juelich 0 x 1
+GM Superior parietal lobule 5L,0.29914616306056646,Juelich 0 x 1
+GM Superior parietal lobule 5M,0.1582043184223097,Juelich 0 x 1
+GM Superior parietal lobule 7A,0.011383387861630801,Juelich 0 x 1
+GM Superior parietal lobule 7M,0.0011339769235839613,Juelich 0 x 1
+GM Superior parietal lobule 7P,0.0806307833203599,Juelich 0 x 1
+GM Superior parietal lobule 7PC,0.21291963129378583,Juelich 0 x 1
+GM Visual cortex V1 BA17,0.41223777846762855,Juelich 0 x 1
+GM Visual cortex V2 BA18,0.43760272036376013,Juelich 0 x 1
+GM Visual cortex V3V,0.8081613330034754,Juelich 0 x 1
+GM Visual cortex V4,0.8573384291195937,Juelich 0 x 1
+GM Visual cortex V5,0.023355493092776777,Juelich 0 x 1
+WM Acoustic radiation,0.398901038656467,Juelich 0 x 1
+WM Callosal body,0.07496342371844823,Juelich 0 x 1
+WM Cingulum,0.33316408762469985,Juelich 0 x 1
+WM Corticospinal tract,0.10551483213853352,Juelich 0 x 1
+WM Fornix,0.8242523360804297,Juelich 0 x 1
+WM Inferior occipito-frontal fascicle,0.14415800924418326,Juelich 0 x 1
+WM Optic radiation,0.3527998184548383,Juelich 0 x 1
+WM Superior longitudinal fascicle,0.040245603477460874,Juelich 0 x 1
+WM Superior occipito-frontal fascicle,0.2493341830821011,Juelich 0 x 1
+WM Uncinate fascicle,0.2906877664877357,Juelich 0 x 1
+Precentral_L,0.2867541676223995,AAL SPM12
+Precentral_R,0.5945288417985731,AAL SPM12
+Frontal_Sup_L,0.06051542179270024,AAL SPM12
+Frontal_Sup_R,0.030668864061813333,AAL SPM12
+Frontal_Sup_Orb_L,0.07861520481402208,AAL SPM12
+Frontal_Sup_Orb_R,0.024586820916440263,AAL SPM12
+Frontal_Mid_L,0.18716828029986424,AAL SPM12
+Frontal_Mid_R,0.31704681981453986,AAL SPM12
+Frontal_Mid_Orb_L,0.13408395666637205,AAL SPM12
+Frontal_Mid_Orb_R,0.029973588923912813,AAL SPM12
+Frontal_Inf_Oper_L,0.016871008334682094,AAL SPM12
+Frontal_Inf_Oper_R,0.1754472411719705,AAL SPM12
+Frontal_Inf_Tri_L,0.0727578588192433,AAL SPM12
+Frontal_Inf_Tri_R,0.06285072860553736,AAL SPM12
+Frontal_Inf_Orb_L,0.050681480079578345,AAL SPM12
+Frontal_Inf_Orb_R,0.05642058137968289,AAL SPM12
+Rolandic_Oper_L,0.19343813382258504,AAL SPM12
+Rolandic_Oper_R,0.4102678236619385,AAL SPM12
+Supp_Motor_Area_L,0.3280606417520517,AAL SPM12
+Supp_Motor_Area_R,0.3714484706875635,AAL SPM12
+Olfactory_L,0.00028941742099452536,AAL SPM12
+Olfactory_R,0.0008097177578428506,AAL SPM12
+Frontal_Sup_Medial_L,0.02948247468230555,AAL SPM12
+Frontal_Sup_Medial_R,0.004872478971055151,AAL SPM12
+Frontal_Med_Orb_L,0.13967627971376576,AAL SPM12
+Frontal_Med_Orb_R,0.07984496376289738,AAL SPM12
+Rectus_L,0.02417018934256878,AAL SPM12
+Rectus_R,0.03262834806659719,AAL SPM12
+Insula_L,0.12211264551985808,AAL SPM12
+Insula_R,0.44282249877707325,AAL SPM12
+Cingulum_Ant_L,0.1783730692562851,AAL SPM12
+Cingulum_Ant_R,0.5230987578894954,AAL SPM12
+Cingulum_Mid_L,0.38565380199708266,AAL SPM12
+Cingulum_Mid_R,0.5238377011662999,AAL SPM12
+Cingulum_Post_L,0.07666537812409475,AAL SPM12
+Cingulum_Post_R,0.06878177946204876,AAL SPM12
+Hippocampus_L,0.07173367556160451,AAL SPM12
+Hippocampus_R,0.3277720618279207,AAL SPM12
+ParaHippocampal_L,0.1858793590683565,AAL SPM12
+ParaHippocampal_R,0.49437141748679736,AAL SPM12
+Amygdala_L,0.22040823082253808,AAL SPM12
+Amygdala_R,0.9627559200041256,AAL SPM12
+Calcarine_L,0.4843700285443324,AAL SPM12
+Calcarine_R,0.44102622504827016,AAL SPM12
+Cuneus_L,0.031061069441346328,AAL SPM12
+Cuneus_R,0.16091070956593193,AAL SPM12
+Lingual_L,0.8842343128636552,AAL SPM12
+Lingual_R,0.4867892653558208,AAL SPM12
+Occipital_Sup_L,0.6112984976992213,AAL SPM12
+Occipital_Sup_R,0.8432607868303734,AAL SPM12
+Occipital_Mid_L,0.3514957595329426,AAL SPM12
+Occipital_Mid_R,0.5342536142884002,AAL SPM12
+Occipital_Inf_L,0.18165730748851622,AAL SPM12
+Occipital_Inf_R,0.48267865481208694,AAL SPM12
+Fusiform_L,0.8332833835070045,AAL SPM12
+Fusiform_R,0.41901054821569195,AAL SPM12
+Postcentral_L,0.8601779196500647,AAL SPM12
+Postcentral_R,0.9406861996936222,AAL SPM12
+Parietal_Sup_L,0.38866240667768526,AAL SPM12
+Parietal_Sup_R,0.04688318183992775,AAL SPM12
+Parietal_Inf_L,0.11568608035807917,AAL SPM12
+Parietal_Inf_R,0.015630366816138466,AAL SPM12
+SupraMarginal_L,0.3420082423548499,AAL SPM12
+SupraMarginal_R,0.44247094016284017,AAL SPM12
+Angular_L,0.021547075915287133,AAL SPM12
+Angular_R,0.0004330166840189095,AAL SPM12
+Precuneus_L,0.20934181109078343,AAL SPM12
+Precuneus_R,0.021408221591776282,AAL SPM12
+Paracentral_Lobule_L,0.6707734913628338,AAL SPM12
+Paracentral_Lobule_R,0.27750856924877787,AAL SPM12
+Caudate_L,0.019649119754405652,AAL SPM12
+Caudate_R,0.24950323866802868,AAL SPM12
+Putamen_L,0.12039578396576779,AAL SPM12
+Putamen_R,0.1267808431023807,AAL SPM12
+Pallidum_L,0.08176352109428714,AAL SPM12
+Pallidum_R,0.20302534085515953,AAL SPM12
+Thalamus_L,0.2820494929716795,AAL SPM12
+Thalamus_R,0.2532052614958287,AAL SPM12
+Heschl_L,0.17474489094101261,AAL SPM12
+Heschl_R,0.1241848501293703,AAL SPM12
+Temporal_Sup_L,0.26959261207971,AAL SPM12
+Temporal_Sup_R,0.42989087122342673,AAL SPM12
+Temporal_Pole_Sup_L,0.03380016499846631,AAL SPM12
+Temporal_Pole_Sup_R,0.27772307858691614,AAL SPM12
+Temporal_Mid_L,0.48450549784864183,AAL SPM12
+Temporal_Mid_R,0.013623705635002687,AAL SPM12
+Temporal_Pole_Mid_L,0.12073290864915136,AAL SPM12
+Temporal_Pole_Mid_R,0.0015570152413166359,AAL SPM12
+Temporal_Inf_L,0.08038000782806129,AAL SPM12
+Temporal_Inf_R,0.17208615173454384,AAL SPM12
+Cerebelum_Crus1_L,0.6731725020858499,AAL SPM12
+Cerebelum_Crus1_R,0.3938452863805849,AAL SPM12
+Cerebelum_Crus2_L,0.7910324006193713,AAL SPM12
+Cerebelum_Crus2_R,0.7627432999844963,AAL SPM12
+Cerebelum_3_L,0.05141379979574077,AAL SPM12
+Cerebelum_3_R,0.16561789050808673,AAL SPM12
+Cerebelum_4_5_L,0.733620573218082,AAL SPM12
+Cerebelum_4_5_R,0.42283495282510963,AAL SPM12
+Cerebelum_6_L,0.7391217971326861,AAL SPM12
+Cerebelum_6_R,0.11370869379695085,AAL SPM12
+Cerebelum_7b_L,0.5822927530926986,AAL SPM12
+Cerebelum_7b_R,0.580981992876594,AAL SPM12
+Cerebelum_8_L,0.41589092199703315,AAL SPM12
+Cerebelum_8_R,0.5156875340345581,AAL SPM12
+Cerebelum_9_L,0.15125676079410744,AAL SPM12
+Cerebelum_9_R,0.20805922162142318,AAL SPM12
+Cerebelum_10_L,0.07079584264447078,AAL SPM12
+Cerebelum_10_R,0.227645481750997,AAL SPM12
+Vermis_1_2,0.038451081621383096,AAL SPM12
+Vermis_3,0.247638253227526,AAL SPM12
+Vermis_4_5,0.13041814841671903,AAL SPM12
+Vermis_6,0.93433880289073,AAL SPM12
+Vermis_7,0.21985707850989278,AAL SPM12
+Vermis_8,0.7856747352222605,AAL SPM12
+Vermis_9,0.9424527704163376,AAL SPM12
+Vermis_10,0.4598503540724377,AAL SPM12
+Left Cerebellum,0.6019921748957672,Talairach Hemi
+Right Cerebellum,0.17731153720433798,Talairach Hemi
+Left Brainstem,0.07153399513000822,Talairach Hemi
+Right Brainstem,0.03634275466326769,Talairach Hemi
+Left Cerebrum,0.039534135367209136,Talairach Hemi
+Right Cerebrum,0.10412713395316883,Talairach Hemi
+Inter-Hemispheric,0.010265257603318565,Talairach Hemi
+Posterior Lobe,0.4104978573124617,Talairach Lobe
+Medulla,0.07548054460622507,Talairach Lobe
+Temporal Lobe,0.17826741214370923,Talairach Lobe
+Limbic Lobe,0.11763742275990806,Talairach Lobe
+Frontal Lobe,0.1831640675474947,Talairach Lobe
+Sub-lobar,0.1455149642110133,Talairach Lobe
+Pons,0.006093112958776178,Talairach Lobe
+Anterior Lobe,0.3230096811170828,Talairach Lobe
+Occipital Lobe,0.7448824119458937,Talairach Lobe
+Midbrain,0.6082086883965255,Talairach Lobe
+Frontal-Temporal Space,0.5027042399806565,Talairach Lobe
+Parietal Lobe,0.041868492306951686,Talairach Lobe
+Inferior Semi-Lunar Lobule,0.6512136309817145,Talairach Gyrus
+Cerebellar Tonsil,0.24335951404834608,Talairach Gyrus
+Inferior Temporal Gyrus,0.04584514401504667,Talairach Gyrus
+Uncus,0.10490520583075023,Talairach Gyrus
+Middle Temporal Gyrus,0.07727201488506551,Talairach Gyrus
+Superior Temporal Gyrus,0.4271795993312265,Talairach Gyrus
+Sub-Gyral,0.07034500151978623,Talairach Gyrus
+Pyramis,0.259497712291638,Talairach Gyrus
+Uvula,0.4093337573782443,Talairach Gyrus
+Uvula of Vermis,0.64835464564958,Talairach Gyrus
+Fourth Ventricle,0.03575088927755691,Talairach Gyrus
+Tuber,0.19005607557289908,Talairach Gyrus
+Pyramis of Vermis,0.1703735475714229,Talairach Gyrus
+Nodule,0.37329768016312936,Talairach Gyrus
+Culmen,0.4996519703199458,Talairach Gyrus
+Orbital Gyrus,0.0920023912058632,Talairach Gyrus
+Tuber of Vermis,0.20930629761946717,Talairach Gyrus
+Fusiform Gyrus,0.4479494894494266,Talairach Gyrus
+Parahippocampal Gyrus,0.4817299357870998,Talairach Gyrus
+Rectal Gyrus,0.07722244713022273,Talairach Gyrus
+Superior Frontal Gyrus,0.08447816111484173,Talairach Gyrus
+Declive,0.4389054236876786,Talairach Gyrus
+Declive of Vermis,0.780075938202471,Talairach Gyrus
+Fastigium,0.03253116465860639,Talairach Gyrus
+Lateral Ventricle,0.3285655325640016,Talairach Gyrus
+Inferior Frontal Gyrus,0.039601354145873645,Talairach Gyrus
+Middle Frontal Gyrus,0.17150281428944278,Talairach Gyrus
+Cerebellar Lingual,0.2719056188857355,Talairach Gyrus
+Medial Frontal Gyrus,0.22972575099871392,Talairach Gyrus
+Lingual Gyrus,0.9343080325213392,Talairach Gyrus
+Inferior Occipital Gyrus,0.3179134597382106,Talairach Gyrus
+Subcallosal Gyrus,0.0009263237620083841,Talairach Gyrus
+Middle Occipital Gyrus,0.7355380947517483,Talairach Gyrus
+Culmen of Vermis,0.4441479789717112,Talairach Gyrus
+Extra-Nuclear,0.14233593957163815,Talairach Gyrus
+Caudate,0.1285884501359205,Talairach Gyrus
+Third Ventricle,0.6056838135191684,Talairach Gyrus
+Anterior Cingulate,0.22463002616232167,Talairach Gyrus
+Lentiform Nucleus,0.0922127979909782,Talairach Gyrus
+Thalamus,0.2902754766662204,Talairach Gyrus
+Insula,0.21574090765090365,Talairach Gyrus
+Claustrum,0.22227649976646774,Talairach Gyrus
+Cuneus,0.3887511613962965,Talairach Gyrus
+Posterior Cingulate,0.08140520597524889,Talairach Gyrus
+Precentral Gyrus,0.5349683814895398,Talairach Gyrus
+Transverse Temporal Gyrus,0.34218340626969646,Talairach Gyrus
+Postcentral Gyrus,0.6118626442831536,Talairach Gyrus
+Precuneus,0.013513743569794559,Talairach Gyrus
+Superior Occipital Gyrus,0.5389452582456873,Talairach Gyrus
+Supramarginal Gyrus,0.14234414541465404,Talairach Gyrus
+Inferior Parietal Lobule,0.10227542946118547,Talairach Gyrus
+Cingulate Gyrus,0.3022474268504752,Talairach Gyrus
+Angular Gyrus,1.679444091921323e-05,Talairach Gyrus
+Superior Parietal Lobule,0.038057537539550504,Talairach Gyrus
+Paracentral Lobule,0.17332562447999894,Talairach Gyrus
+Gray Matter,0.11359396962135597,Talairach Tissue
+White Matter,0.05520185441258428,Talairach Tissue
+Cerebro-Spinal Fluid,0.42446505713224625,Talairach Tissue
+Brodmann area 20,0.05816977817217564,Talairach Ba
+Brodmann area 38,0.15960217767143964,Talairach Ba
+Brodmann area 36,0.43219912407655603,Talairach Ba
+Brodmann area 21,0.23208101459192015,Talairach Ba
+Brodmann area 28,0.19411257810458246,Talairach Ba
+Brodmann area 11,0.020328378473746404,Talairach Ba
+Dentate,0.22723004884106993,Talairach Ba
+Brodmann area 35,0.312064189785627,Talairach Ba
+Brodmann area 47,0.09183189064613519,Talairach Ba
+Hippocampus,0.2395805349779397,Talairach Ba
+Brodmann area 34,0.32328018762429794,Talairach Ba
+Amygdala,0.626742241269358,Talairach Ba
+Brodmann area 18,0.7984044669055239,Talairach Ba
+Brodmann area 37,0.2895178233890422,Talairach Ba
+Brodmann area 25,0.0005863112658928692,Talairach Ba
+Brodmann area 17,0.5854900053947215,Talairach Ba
+Brodmann area 19,0.41192888232319635,Talairach Ba
+Optic Tract,0.8144022502690039,Talairach Ba
+Hypothalamus,0.11505538459509088,Talairach Ba
+Brodmann area 13,0.15147481068818747,Talairach Ba
+Substania Nigra,0.25331828934749934,Talairach Ba
+Red Nucleus,0.26558983955867865,Talairach Ba
+Caudate Tail,0.5531156519678035,Talairach Ba
+Mammillary Body,0.35647042249730543,Talairach Ba
+Putamen,0.09951419885896504,Talairach Ba
+Brodmann area 32,0.7124678988267359,Talairach Ba
+Brodmann area 10,0.4053241090791607,Talairach Ba
+Brodmann area 30,0.24319620230632547,Talairach Ba
+Brodmann area 27,0.22554201747706257,Talairach Ba
+Medial Geniculum Body,0.006392877382828313,Talairach Ba
+Brodmann area 22,0.42942894525838926,Talairach Ba
+Lateral Globus Pallidus,0.1221622510011737,Talairach Ba
+Subthalamic Nucleus,0.26979898289761395,Talairach Ba
+Medial Globus Pallidus,0.1379485122074808,Talairach Ba
+Caudate Head,0.3375528993002271,Talairach Ba
+Brodmann area 24,0.716546841062617,Talairach Ba
+Lateral Geniculum Body,0.2383533715364093,Talairach Ba
+Anterior Commissure,0.3863694849870235,Talairach Ba
+Corpus Callosum,0.0928708726663149,Talairach Ba
+Ventral Posterior Lateral Nucleus,0.0028444759816609023,Talairach Ba
+Ventral Posterior Medial Nucleus,0.0065243889028788905,Talairach Ba
+Brodmann area 45,0.014771935895969927,Talairach Ba
+Brodmann area 46,0.1476440545041756,Talairach Ba
+Pulvinar,0.18632114603727035,Talairach Ba
+Medial Dorsal Nucleus,0.7614660030856757,Talairach Ba
+Ventral Lateral Nucleus,0.07485632252707702,Talairach Ba
+Ventral Anterior Nucleus,0.4613480404657787,Talairach Ba
+Brodmann area 29,0.1273829576449198,Talairach Ba
+Brodmann area 41,0.5433260384785954,Talairach Ba
+Brodmann area 42,0.3530077362608581,Talairach Ba
+Brodmann area 6,0.459244331409127,Talairach Ba
+Anterior Nucleus,0.6649402078937983,Talairach Ba
+Brodmann area 44,0.033672892328752,Talairach Ba
+Caudate Body,0.06474082604227262,Talairach Ba
+Brodmann area 39,0.000607653769798566,Talairach Ba
+Brodmann area 23,0.01495729231102135,Talairach Ba
+Lateral Posterior Nucleus,0.05769096302421479,Talairach Ba
+Brodmann area 43,0.10938698646044176,Talairach Ba
+Brodmann area 31,0.005461376872991747,Talairach Ba
+Brodmann area 40,0.12495375148197752,Talairach Ba
+Lateral Dorsal Nucleus,0.22708672682819342,Talairach Ba
+Midline Nucleus,0.33880945003645824,Talairach Ba
+Brodmann area 4,0.4231780230143548,Talairach Ba
+Brodmann area 9,0.3136045145972994,Talairach Ba
+Brodmann area 33,0.07227449604746061,Talairach Ba
+Brodmann area 2,0.9251523729586792,Talairach Ba
+Brodmann area 1,0.9020232301411772,Talairach Ba
+Brodmann area 3,0.488287110876369,Talairach Ba
+Brodmann area 7,0.020925804269354985,Talairach Ba
+Brodmann area 8,0.16685178972494003,Talairach Ba
+Brodmann area 5,0.2727756500103239,Talairach Ba
+b'7Networks_LH_Vis_1',0.730878730524618,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_2',0.9292014552156593,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_3',0.9960737586866897,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_4',0.49967871609284464,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_5',0.7135840347336331,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_6',0.5188830842587294,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_7',0.017543219389272037,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_8',0.7162063372321004,Schaefer 100 x 7 x 1
+b'7Networks_LH_Vis_9',0.04294860168450689,Schaefer 100 x 7 x 1
+b'7Networks_LH_SomMot_1',0.30347012508386706,Schaefer 100 x 7 x 1
+b'7Networks_LH_SomMot_2',0.3105074114907249,Schaefer 100 x 7 x 1
+b'7Networks_LH_SomMot_3',0.14596561975795766,Schaefer 100 x 7 x 1
+b'7Networks_LH_SomMot_4',0.6554231070932435,Schaefer 100 x 7 x 1
+b'7Networks_LH_SomMot_5',0.5475501249737846,Schaefer 100 x 7 x 1
+b'7Networks_LH_SomMot_6',0.4918114310602224,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_Post_1',0.11400637361007138,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_Post_2',0.48081941748266877,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_Post_3',0.5674730584616463,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_Post_4',0.22762540943672893,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_Post_5',0.13642308496034292,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_Post_6',0.3645134588490948,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_PrCv_1',0.04760429659177812,Schaefer 100 x 7 x 1
+b'7Networks_LH_DorsAttn_FEF_1',0.2823185610764289,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_ParOper_1',0.15305993662269435,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_FrOperIns_1',0.04705370376599461,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_FrOperIns_2',0.31780833277419945,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_PFCl_1',0.44966198996175233,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_Med_1',0.9000744533499985,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_Med_2',0.38705467700838514,Schaefer 100 x 7 x 1
+b'7Networks_LH_SalVentAttn_Med_3',0.6618655732215881,Schaefer 100 x 7 x 1
+b'7Networks_LH_Limbic_OFC_1',0.0066836960347510365,Schaefer 100 x 7 x 1
+b'7Networks_LH_Limbic_TempPole_1',0.08655682731847456,Schaefer 100 x 7 x 1
+b'7Networks_LH_Limbic_TempPole_2',0.4242197613868419,Schaefer 100 x 7 x 1
+b'7Networks_LH_Cont_Par_1',0.13934302188000036,Schaefer 100 x 7 x 1
+b'7Networks_LH_Cont_PFCl_1',0.20113976233766137,Schaefer 100 x 7 x 1
+b'7Networks_LH_Cont_pCun_1',0.051404574579586915,Schaefer 100 x 7 x 1
+b'7Networks_LH_Cont_Cing_1',0.05408598936892413,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_Temp_1',0.12905771615625083,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_Temp_2',0.8203310466599217,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_Par_1',0.8108263300004853,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_Par_2',0.024479381575166312,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_1',0.04163366649524263,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_2',0.12954552158412974,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_3',0.21291177534427905,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_4',0.34844688793282225,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_5',0.029156736016011466,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_6',0.08164481557811926,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_PFC_7',0.0930373448172242,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_pCunPCC_1',0.20154937691136923,Schaefer 100 x 7 x 1
+b'7Networks_LH_Default_pCunPCC_2',0.04163719006457608,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_1',0.7365916785420761,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_2',0.9687240492076192,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_3',0.2693063408905285,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_4',0.8064701877487865,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_5',0.4978268568894961,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_6',0.058503263630948044,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_7',0.8843410125740274,Schaefer 100 x 7 x 1
+b'7Networks_RH_Vis_8',0.2650392611651509,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_1',0.518692794048508,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_2',0.26530959495029244,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_3',0.5846000281138799,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_4',0.7704977953118703,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_5',0.21481726542860805,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_6',0.3175057219722782,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_7',0.549205453985306,Schaefer 100 x 7 x 1
+b'7Networks_RH_SomMot_8',0.3052862857039014,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_Post_1',0.0003861242413090187,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_Post_2',0.8350211175322911,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_Post_3',0.06385521523326432,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_Post_4',0.0527869557680596,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_Post_5',0.6257537504529262,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_PrCv_1',0.10258209130950699,Schaefer 100 x 7 x 1
+b'7Networks_RH_DorsAttn_FEF_1',0.28334548575851926,Schaefer 100 x 7 x 1
+b'7Networks_RH_SalVentAttn_TempOccPar_1',0.01580789573131087,Schaefer 100 x 7 x 1
+b'7Networks_RH_SalVentAttn_TempOccPar_2',0.827383563306581,Schaefer 100 x 7 x 1
+b'7Networks_RH_SalVentAttn_FrOperIns_1',0.4588212425717928,Schaefer 100 x 7 x 1
+b'7Networks_RH_SalVentAttn_Med_1',0.13230959995592317,Schaefer 100 x 7 x 1
+b'7Networks_RH_SalVentAttn_Med_2',0.647106800140758,Schaefer 100 x 7 x 1
+b'7Networks_RH_Limbic_OFC_1',0.060817849037867036,Schaefer 100 x 7 x 1
+b'7Networks_RH_Limbic_TempPole_1',0.006832855213912054,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_Par_1',0.08330348657308416,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_Par_2',0.009432676718020538,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_PFCl_1',0.17145568396774258,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_PFCl_2',0.28881239367247585,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_PFCl_3',0.809689063069028,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_PFCl_4',0.1423858782409235,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_Cing_1',0.01165238640399582,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_PFCmp_1',0.2985831467988698,Schaefer 100 x 7 x 1
+b'7Networks_RH_Cont_pCun_1',0.0026997816235773964,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_Par_1',0.002948623520273642,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_Temp_1',0.26686791395601084,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_Temp_2',0.3660891143488593,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_Temp_3',0.08755794299861808,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_PFCv_1',0.06275206383620612,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_PFCv_2',0.02249403770257411,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_PFCdPFCm_1',0.2581538274858403,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_PFCdPFCm_2',0.006642336583765325,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_PFCdPFCm_3',0.016283871459166772,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_pCunPCC_1',0.08169511446771782,Schaefer 100 x 7 x 1
+b'7Networks_RH_Default_pCunPCC_2',0.011774514179368326,Schaefer 100 x 7 x 1
+Left Cerebellum,0.6019921748957672,Talairach Hemi x Lobe x Tissue
+Right Cerebellum,0.17731153720433798,Talairach Hemi x Lobe x Tissue
+Left Brainstem,0.07153399513000822,Talairach Hemi x Lobe x Tissue
+Right Brainstem,0.03634275466326769,Talairach Hemi x Lobe x Tissue
+Left Cerebrum,0.039534135367209136,Talairach Hemi x Lobe x Tissue
+Right Cerebrum,0.10412713395316883,Talairach Hemi x Lobe x Tissue
+Inter-Hemispheric,0.010265257603318565,Talairach Hemi x Lobe x Tissue
+Posterior Lobe,0.4104978573124617,Talairach Hemi x Lobe x Tissue
+Medulla,0.07548054460622507,Talairach Hemi x Lobe x Tissue
+Temporal Lobe,0.17826741214370923,Talairach Hemi x Lobe x Tissue
+Limbic Lobe,0.11763742275990806,Talairach Hemi x Lobe x Tissue
+Frontal Lobe,0.1831640675474947,Talairach Hemi x Lobe x Tissue
+Sub-lobar,0.1455149642110133,Talairach Hemi x Lobe x Tissue
+Pons,0.006093112958776178,Talairach Hemi x Lobe x Tissue
+Anterior Lobe,0.3230096811170828,Talairach Hemi x Lobe x Tissue
+Occipital Lobe,0.7448824119458937,Talairach Hemi x Lobe x Tissue
+Midbrain,0.6082086883965255,Talairach Hemi x Lobe x Tissue
+Frontal-Temporal Space,0.5027042399806565,Talairach Hemi x Lobe x Tissue
+Parietal Lobe,0.041868492306951686,Talairach Hemi x Lobe x Tissue
+Gray Matter,0.11359396962135597,Talairach Hemi x Lobe x Tissue
+White Matter,0.05520185441258428,Talairach Hemi x Lobe x Tissue
+Cerebro-Spinal Fluid,0.42446505713224625,Talairach Hemi x Lobe x Tissue

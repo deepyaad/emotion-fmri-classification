@@ -2,7 +2,7 @@ Round: 1
 Components: 1, Error: 211871.53322041873
 
 Round: 6
-Components: 6, Error: 132275.88447493652
+Components: 6, Error: 132275.88447493577
 
 Round: 11
 Components: 11, Error: 110152.7949084889

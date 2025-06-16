@@ -1,0 +1,337 @@
+method,target,feat_1,feat_2,p_value
+Harvard_Oxford cort 0 x 1,emotion,subject,emotion,0.47381571766982705
+Harvard_Oxford cort 0 x 1,emotion,subject,priming,0.9999999999983569
+Harvard_Oxford cort 0 x 1,emotion,subject,predicted_label,3.891102063310428e-09
+Harvard_Oxford cort 0 x 1,emotion,emotion,subject,0.4738157176698273
+Harvard_Oxford cort 0 x 1,emotion,emotion,priming,0.9647005159861323
+Harvard_Oxford cort 0 x 1,emotion,emotion,predicted_label,2.077545650939758e-17
+Harvard_Oxford cort 0 x 1,emotion,priming,subject,0.9999999999983569
+Harvard_Oxford cort 0 x 1,emotion,priming,emotion,0.9647005159861323
+Harvard_Oxford cort 0 x 1,emotion,priming,predicted_label,0.40050480428805235
+Harvard_Oxford cort 0 x 1,emotion,predicted_label,subject,3.89110206331043e-09
+Harvard_Oxford cort 0 x 1,emotion,predicted_label,emotion,2.077545650939758e-17
+Harvard_Oxford cort 0 x 1,emotion,predicted_label,priming,0.40050480428805235
+Harvard_Oxford cort 0 x 1,priming,subject,emotion,0.9965842241914877
+Harvard_Oxford cort 0 x 1,priming,subject,priming,0.04982611331453931
+Harvard_Oxford cort 0 x 1,priming,subject,predicted_label,4.379214459308376e-12
+Harvard_Oxford cort 0 x 1,priming,emotion,subject,0.9965842241914877
+Harvard_Oxford cort 0 x 1,priming,emotion,priming,0.9571053292808441
+Harvard_Oxford cort 0 x 1,priming,emotion,predicted_label,0.9160354369993724
+Harvard_Oxford cort 0 x 1,priming,priming,subject,0.04982611331453931
+Harvard_Oxford cort 0 x 1,priming,priming,emotion,0.9571053292808441
+Harvard_Oxford cort 0 x 1,priming,priming,predicted_label,1.4306535776916687e-10
+Harvard_Oxford cort 0 x 1,priming,predicted_label,subject,4.379214459308376e-12
+Harvard_Oxford cort 0 x 1,priming,predicted_label,emotion,0.9160354369993724
+Harvard_Oxford cort 0 x 1,priming,predicted_label,priming,1.4306535776916687e-10
+Harvard_Oxford cortl 0 x 1,emotion,subject,emotion,0.582728485110199
+Harvard_Oxford cortl 0 x 1,emotion,subject,priming,0.9999999967762068
+Harvard_Oxford cortl 0 x 1,emotion,subject,predicted_label,8.450435132497642e-12
+Harvard_Oxford cortl 0 x 1,emotion,emotion,subject,0.582728485110199
+Harvard_Oxford cortl 0 x 1,emotion,emotion,priming,0.9929988621338469
+Harvard_Oxford cortl 0 x 1,emotion,emotion,predicted_label,2.976601352850163e-18
+Harvard_Oxford cortl 0 x 1,emotion,priming,subject,0.9999999967762068
+Harvard_Oxford cortl 0 x 1,emotion,priming,emotion,0.9929988621338469
+Harvard_Oxford cortl 0 x 1,emotion,priming,predicted_label,0.11126663578144899
+Harvard_Oxford cortl 0 x 1,emotion,predicted_label,subject,8.450435132497525e-12
+Harvard_Oxford cortl 0 x 1,emotion,predicted_label,emotion,2.976601352850163e-18
+Harvard_Oxford cortl 0 x 1,emotion,predicted_label,priming,0.11126663578144899
+Harvard_Oxford cortl 0 x 1,priming,subject,emotion,0.9997401761024504
+Harvard_Oxford cortl 0 x 1,priming,subject,priming,0.006838375520266561
+Harvard_Oxford cortl 0 x 1,priming,subject,predicted_label,1.2134885487654414e-08
+Harvard_Oxford cortl 0 x 1,priming,emotion,subject,0.9997401761024504
+Harvard_Oxford cortl 0 x 1,priming,emotion,priming,0.7715571264372345
+Harvard_Oxford cortl 0 x 1,priming,emotion,predicted_label,0.4936217290742061
+Harvard_Oxford cortl 0 x 1,priming,priming,subject,0.006838375520266561
+Harvard_Oxford cortl 0 x 1,priming,priming,emotion,0.7715571264372345
+Harvard_Oxford cortl 0 x 1,priming,priming,predicted_label,1.8389812548461893e-12
+Harvard_Oxford cortl 0 x 1,priming,predicted_label,subject,1.2134885487654059e-08
+Harvard_Oxford cortl 0 x 1,priming,predicted_label,emotion,0.4936217290742061
+Harvard_Oxford cortl 0 x 1,priming,predicted_label,priming,1.838981254846183e-12
+Harvard_Oxford sub 0 x 1,emotion,subject,emotion,0.7704812016473476
+Harvard_Oxford sub 0 x 1,emotion,subject,priming,0.9999999998226151
+Harvard_Oxford sub 0 x 1,emotion,subject,predicted_label,1.0973711226303333e-06
+Harvard_Oxford sub 0 x 1,emotion,emotion,subject,0.7704812016473476
+Harvard_Oxford sub 0 x 1,emotion,emotion,priming,0.7491314633689417
+Harvard_Oxford sub 0 x 1,emotion,emotion,predicted_label,5.673204508267749e-18
+Harvard_Oxford sub 0 x 1,emotion,priming,subject,0.9999999998226151
+Harvard_Oxford sub 0 x 1,emotion,priming,emotion,0.7491314633689417
+Harvard_Oxford sub 0 x 1,emotion,priming,predicted_label,0.12083248560914238
+Harvard_Oxford sub 0 x 1,emotion,predicted_label,subject,1.0973711226303333e-06
+Harvard_Oxford sub 0 x 1,emotion,predicted_label,emotion,5.673204508267749e-18
+Harvard_Oxford sub 0 x 1,emotion,predicted_label,priming,0.12083248560914246
+Harvard_Oxford sub 0 x 1,priming,subject,emotion,0.9999999966258212
+Harvard_Oxford sub 0 x 1,priming,subject,priming,0.5151282735978693
+Harvard_Oxford sub 0 x 1,priming,subject,predicted_label,1.2251506211946167e-06
+Harvard_Oxford sub 0 x 1,priming,emotion,subject,0.9999999966258212
+Harvard_Oxford sub 0 x 1,priming,emotion,priming,0.44968164843212055
+Harvard_Oxford sub 0 x 1,priming,emotion,predicted_label,0.5926116986239505
+Harvard_Oxford sub 0 x 1,priming,priming,subject,0.5151282735978693
+Harvard_Oxford sub 0 x 1,priming,priming,emotion,0.44968164843212055
+Harvard_Oxford sub 0 x 1,priming,priming,predicted_label,4.619492738864165e-15
+Harvard_Oxford sub 0 x 1,priming,predicted_label,subject,1.2251506211946167e-06
+Harvard_Oxford sub 0 x 1,priming,predicted_label,emotion,0.5926116986239505
+Harvard_Oxford sub 0 x 1,priming,predicted_label,priming,4.619492738864165e-15
+Juelich 0 x 1,emotion,subject,emotion,0.6740198366669236
+Juelich 0 x 1,emotion,subject,priming,0.9999999992858235
+Juelich 0 x 1,emotion,subject,predicted_label,2.3582399274340566e-11
+Juelich 0 x 1,emotion,emotion,subject,0.674019836666924
+Juelich 0 x 1,emotion,emotion,priming,0.9319874943102506
+Juelich 0 x 1,emotion,emotion,predicted_label,7.829541149185076e-17
+Juelich 0 x 1,emotion,priming,subject,0.9999999992858235
+Juelich 0 x 1,emotion,priming,emotion,0.9319874943102506
+Juelich 0 x 1,emotion,priming,predicted_label,0.23974045636774263
+Juelich 0 x 1,emotion,predicted_label,subject,2.3582399274340566e-11
+Juelich 0 x 1,emotion,predicted_label,emotion,7.829541149185076e-17
+Juelich 0 x 1,emotion,predicted_label,priming,0.23974045636774274
+Juelich 0 x 1,priming,subject,emotion,0.99894419098893
+Juelich 0 x 1,priming,subject,priming,0.050579064189651246
+Juelich 0 x 1,priming,subject,predicted_label,4.959354835313476e-06
+Juelich 0 x 1,priming,emotion,subject,0.99894419098893
+Juelich 0 x 1,priming,emotion,priming,0.8315127822549089
+Juelich 0 x 1,priming,emotion,predicted_label,0.6083693514456152
+Juelich 0 x 1,priming,priming,subject,0.050579064189651246
+Juelich 0 x 1,priming,priming,emotion,0.8315127822549089
+Juelich 0 x 1,priming,priming,predicted_label,7.457829641124746e-12
+Juelich 0 x 1,priming,predicted_label,subject,4.959354835313476e-06
+Juelich 0 x 1,priming,predicted_label,emotion,0.6083693514456152
+Juelich 0 x 1,priming,predicted_label,priming,7.457829641124717e-12
+AAL SPM12,emotion,subject,emotion,0.6630321073443655
+AAL SPM12,emotion,subject,priming,0.9999999999999206
+AAL SPM12,emotion,subject,predicted_label,6.649313365780118e-16
+AAL SPM12,emotion,emotion,subject,0.6630321073443652
+AAL SPM12,emotion,emotion,priming,0.8371060910511081
+AAL SPM12,emotion,emotion,predicted_label,1.0211849594288399e-17
+AAL SPM12,emotion,priming,subject,0.9999999999999206
+AAL SPM12,emotion,priming,emotion,0.8371060910511081
+AAL SPM12,emotion,priming,predicted_label,0.36013094831061127
+AAL SPM12,emotion,predicted_label,subject,6.649313365780118e-16
+AAL SPM12,emotion,predicted_label,emotion,1.0211849594288325e-17
+AAL SPM12,emotion,predicted_label,priming,0.36013094831061115
+AAL SPM12,priming,subject,emotion,0.999979529584785
+AAL SPM12,priming,subject,priming,0.012331960125484815
+AAL SPM12,priming,subject,predicted_label,1.0943889232180011e-10
+AAL SPM12,priming,emotion,subject,0.999979529584785
+AAL SPM12,priming,emotion,priming,0.9028632223337195
+AAL SPM12,priming,emotion,predicted_label,0.7559578075141764
+AAL SPM12,priming,priming,subject,0.012331960125484815
+AAL SPM12,priming,priming,emotion,0.9028632223337195
+AAL SPM12,priming,priming,predicted_label,9.392005172261144e-13
+AAL SPM12,priming,predicted_label,subject,1.0943889232180179e-10
+AAL SPM12,priming,predicted_label,emotion,0.7559578075141764
+AAL SPM12,priming,predicted_label,priming,9.392005172261144e-13
+Talairach Gyrus,emotion,subject,emotion,0.9711492815287702
+Talairach Gyrus,emotion,subject,priming,0.9999999999996345
+Talairach Gyrus,emotion,subject,predicted_label,5.824228028643417e-08
+Talairach Gyrus,emotion,emotion,subject,0.9711492815287703
+Talairach Gyrus,emotion,emotion,priming,0.8907704210745271
+Talairach Gyrus,emotion,emotion,predicted_label,5.135392346682352e-19
+Talairach Gyrus,emotion,priming,subject,0.9999999999996345
+Talairach Gyrus,emotion,priming,emotion,0.8907704210745271
+Talairach Gyrus,emotion,priming,predicted_label,0.3845240045937456
+Talairach Gyrus,emotion,predicted_label,subject,5.824228028643331e-08
+Talairach Gyrus,emotion,predicted_label,emotion,5.135392346682352e-19
+Talairach Gyrus,emotion,predicted_label,priming,0.3845240045937456
+Talairach Gyrus,priming,subject,emotion,0.999990336436811
+Talairach Gyrus,priming,subject,priming,0.0020198365312537074
+Talairach Gyrus,priming,subject,predicted_label,2.1687979911764286e-08
+Talairach Gyrus,priming,emotion,subject,0.999990336436811
+Talairach Gyrus,priming,emotion,priming,0.9874834416888931
+Talairach Gyrus,priming,emotion,predicted_label,0.7430159828089684
+Talairach Gyrus,priming,priming,subject,0.002019836531253724
+Talairach Gyrus,priming,priming,emotion,0.9874834416888931
+Talairach Gyrus,priming,priming,predicted_label,8.339954878065041e-11
+Talairach Gyrus,priming,predicted_label,subject,2.16879799117646e-08
+Talairach Gyrus,priming,predicted_label,emotion,0.7430159828089684
+Talairach Gyrus,priming,predicted_label,priming,8.339954878065041e-11
+Talairach Ba,emotion,subject,emotion,0.4915177027331905
+Talairach Ba,emotion,subject,priming,0.9999999999999839
+Talairach Ba,emotion,subject,predicted_label,1.0812966322625374e-14
+Talairach Ba,emotion,emotion,subject,0.4915177027331903
+Talairach Ba,emotion,emotion,priming,0.931220078937615
+Talairach Ba,emotion,emotion,predicted_label,5.717755821554891e-18
+Talairach Ba,emotion,priming,subject,0.9999999999999839
+Talairach Ba,emotion,priming,emotion,0.931220078937615
+Talairach Ba,emotion,priming,predicted_label,0.3903881195417963
+Talairach Ba,emotion,predicted_label,subject,1.0812966322625374e-14
+Talairach Ba,emotion,predicted_label,emotion,5.717755821554891e-18
+Talairach Ba,emotion,predicted_label,priming,0.3903881195417963
+Talairach Ba,priming,subject,emotion,0.9999968263610456
+Talairach Ba,priming,subject,priming,0.011095947830598132
+Talairach Ba,priming,subject,predicted_label,6.784114298796336e-10
+Talairach Ba,priming,emotion,subject,0.9999968263610456
+Talairach Ba,priming,emotion,priming,0.7812554698312058
+Talairach Ba,priming,emotion,predicted_label,0.8469648238924518
+Talairach Ba,priming,priming,subject,0.011095947830598295
+Talairach Ba,priming,priming,emotion,0.7812554698312058
+Talairach Ba,priming,priming,predicted_label,7.540318189716641e-12
+Talairach Ba,priming,predicted_label,subject,6.784114298796244e-10
+Talairach Ba,priming,predicted_label,emotion,0.8469648238924518
+Talairach Ba,priming,predicted_label,priming,7.540318189716641e-12
+Schaefer 100 x 7 x 1,emotion,subject,emotion,0.5429655652274209
+Schaefer 100 x 7 x 1,emotion,subject,priming,0.999999999887064
+Schaefer 100 x 7 x 1,emotion,subject,predicted_label,3.151556211624444e-11
+Schaefer 100 x 7 x 1,emotion,emotion,subject,0.5429655652274211
+Schaefer 100 x 7 x 1,emotion,emotion,priming,0.9698448850911308
+Schaefer 100 x 7 x 1,emotion,emotion,predicted_label,4.632822198058398e-20
+Schaefer 100 x 7 x 1,emotion,priming,subject,0.999999999887064
+Schaefer 100 x 7 x 1,emotion,priming,emotion,0.9698448850911308
+Schaefer 100 x 7 x 1,emotion,priming,predicted_label,0.9243585481448237
+Schaefer 100 x 7 x 1,emotion,predicted_label,subject,3.151556211624444e-11
+Schaefer 100 x 7 x 1,emotion,predicted_label,emotion,4.632822198058398e-20
+Schaefer 100 x 7 x 1,emotion,predicted_label,priming,0.9243585481448237
+Schaefer 100 x 7 x 1,priming,subject,emotion,0.9985148608048023
+Schaefer 100 x 7 x 1,priming,subject,priming,0.028542004629866915
+Schaefer 100 x 7 x 1,priming,subject,predicted_label,3.178504104677713e-06
+Schaefer 100 x 7 x 1,priming,emotion,subject,0.9985148608048023
+Schaefer 100 x 7 x 1,priming,emotion,priming,0.5471363479913346
+Schaefer 100 x 7 x 1,priming,emotion,predicted_label,0.6687427274917817
+Schaefer 100 x 7 x 1,priming,priming,subject,0.028542004629866682
+Schaefer 100 x 7 x 1,priming,priming,emotion,0.5471363479913347
+Schaefer 100 x 7 x 1,priming,priming,predicted_label,1.976875387257743e-09
+Schaefer 100 x 7 x 1,priming,predicted_label,subject,3.1785041046777604e-06
+Schaefer 100 x 7 x 1,priming,predicted_label,emotion,0.6687427274917817
+Schaefer 100 x 7 x 1,priming,predicted_label,priming,1.976875387257743e-09
+Talairach Hemi x Lobe x Tissue,emotion,subject,emotion,0.8291115001388439
+Talairach Hemi x Lobe x Tissue,emotion,subject,priming,0.9999999998760492
+Talairach Hemi x Lobe x Tissue,emotion,subject,predicted_label,4.508544738085904e-10
+Talairach Hemi x Lobe x Tissue,emotion,emotion,subject,0.8291115001388439
+Talairach Hemi x Lobe x Tissue,emotion,emotion,priming,0.868776546076835
+Talairach Hemi x Lobe x Tissue,emotion,emotion,predicted_label,2.6627666409467413e-18
+Talairach Hemi x Lobe x Tissue,emotion,priming,subject,0.9999999998760492
+Talairach Hemi x Lobe x Tissue,emotion,priming,emotion,0.868776546076835
+Talairach Hemi x Lobe x Tissue,emotion,priming,predicted_label,0.47179777327379313
+Talairach Hemi x Lobe x Tissue,emotion,predicted_label,subject,4.5085447380859044e-10
+Talairach Hemi x Lobe x Tissue,emotion,predicted_label,emotion,2.6627666409467413e-18
+Talairach Hemi x Lobe x Tissue,emotion,predicted_label,priming,0.47179777327379313
+Talairach Hemi x Lobe x Tissue,priming,subject,emotion,0.9999990796448484
+Talairach Hemi x Lobe x Tissue,priming,subject,priming,0.10485710408266649
+Talairach Hemi x Lobe x Tissue,priming,subject,predicted_label,2.0700756415198578e-13
+Talairach Hemi x Lobe x Tissue,priming,emotion,subject,0.9999990796448484
+Talairach Hemi x Lobe x Tissue,priming,emotion,priming,0.9305114581810898
+Talairach Hemi x Lobe x Tissue,priming,emotion,predicted_label,0.7947843561050816
+Talairach Hemi x Lobe x Tissue,priming,priming,subject,0.10485710408266649
+Talairach Hemi x Lobe x Tissue,priming,priming,emotion,0.9305114581810898
+Talairach Hemi x Lobe x Tissue,priming,priming,predicted_label,1.1917644499884188e-13
+Talairach Hemi x Lobe x Tissue,priming,predicted_label,subject,2.0700756415198265e-13
+Talairach Hemi x Lobe x Tissue,priming,predicted_label,emotion,0.7947843561050816
+Talairach Hemi x Lobe x Tissue,priming,predicted_label,priming,1.19176444998841e-13
+PCA,emotion,subject,emotion,0.3407116380433178
+PCA,emotion,subject,priming,0.9999999999999872
+PCA,emotion,subject,predicted_label,4.075894951785354e-06
+PCA,emotion,emotion,subject,0.3407116380433178
+PCA,emotion,emotion,priming,0.9882349099516583
+PCA,emotion,emotion,predicted_label,9.77143669607008e-18
+PCA,emotion,priming,subject,0.9999999999999872
+PCA,emotion,priming,emotion,0.9882349099516583
+PCA,emotion,priming,predicted_label,0.40271041695645476
+PCA,emotion,predicted_label,subject,4.0758949517853844e-06
+PCA,emotion,predicted_label,emotion,9.771436696070008e-18
+PCA,emotion,predicted_label,priming,0.40271041695645476
+PCA,priming,subject,emotion,0.9846435555811377
+PCA,priming,subject,priming,0.19887954796035107
+PCA,priming,subject,predicted_label,6.506130439200216e-06
+PCA,priming,emotion,subject,0.9846435555811377
+PCA,priming,emotion,priming,0.5964865709747654
+PCA,priming,emotion,predicted_label,0.07730613263262212
+PCA,priming,priming,subject,0.1988795479603513
+PCA,priming,priming,emotion,0.5964865709747654
+PCA,priming,priming,predicted_label,3.013853545287654e-08
+PCA,priming,predicted_label,subject,6.506130439200216e-06
+PCA,priming,predicted_label,emotion,0.07730613263262212
+PCA,priming,predicted_label,priming,3.013853545287654e-08
+Isomap,emotion,subject,emotion,0.9215423752967331
+Isomap,emotion,subject,priming,0.999999999370659
+Isomap,emotion,subject,predicted_label,6.9303600073827146e-12
+Isomap,emotion,emotion,subject,0.9215423752967331
+Isomap,emotion,emotion,priming,0.8424266927746489
+Isomap,emotion,emotion,predicted_label,3.0613545723744024e-19
+Isomap,emotion,priming,subject,0.999999999370659
+Isomap,emotion,priming,emotion,0.8424266927746489
+Isomap,emotion,priming,predicted_label,0.5418536056060952
+Isomap,emotion,predicted_label,subject,6.930360007382615e-12
+Isomap,emotion,predicted_label,emotion,3.0613545723744024e-19
+Isomap,emotion,predicted_label,priming,0.5418536056060952
+Isomap,priming,subject,emotion,0.9998780311860489
+Isomap,priming,subject,priming,0.48022317180441687
+Isomap,priming,subject,predicted_label,8.359527239406615e-10
+Isomap,priming,emotion,subject,0.9998780311860489
+Isomap,priming,emotion,priming,0.7685070312040313
+Isomap,priming,emotion,predicted_label,0.9148609197549143
+Isomap,priming,priming,subject,0.48022317180441654
+Isomap,priming,priming,emotion,0.7685070312040313
+Isomap,priming,priming,predicted_label,6.552507461845626e-13
+Isomap,priming,predicted_label,subject,8.35952723940673e-10
+Isomap,priming,predicted_label,emotion,0.9148609197549143
+Isomap,priming,predicted_label,priming,6.552507461845626e-13
+Hessian,emotion,subject,emotion,0.7963440141294448
+Hessian,emotion,subject,priming,0.9999999999998619
+Hessian,emotion,subject,predicted_label,2.5735893354245164e-11
+Hessian,emotion,emotion,subject,0.796344014129445
+Hessian,emotion,emotion,priming,0.7005571111065398
+Hessian,emotion,emotion,predicted_label,3.126089293026185e-19
+Hessian,emotion,priming,subject,0.9999999999998619
+Hessian,emotion,priming,emotion,0.7005571111065398
+Hessian,emotion,priming,predicted_label,0.005344200094243018
+Hessian,emotion,predicted_label,subject,2.5735893354244783e-11
+Hessian,emotion,predicted_label,emotion,3.126089293026185e-19
+Hessian,emotion,predicted_label,priming,0.005344200094243018
+Hessian,priming,subject,emotion,0.9998837964345922
+Hessian,priming,subject,priming,0.010104102613681614
+Hessian,priming,subject,predicted_label,1.9123587367325006e-08
+Hessian,priming,emotion,subject,0.9998837964345922
+Hessian,priming,emotion,priming,0.7967083000601625
+Hessian,priming,emotion,predicted_label,0.593629521621049
+Hessian,priming,priming,subject,0.010104102613681614
+Hessian,priming,priming,emotion,0.7967083000601625
+Hessian,priming,priming,predicted_label,2.6625019560414904e-11
+Hessian,priming,predicted_label,subject,1.9123587367324722e-08
+Hessian,priming,predicted_label,emotion,0.5936295216210491
+Hessian,priming,predicted_label,priming,2.6625019560414904e-11
+MDS,emotion,subject,emotion,0.8965858571151462
+MDS,emotion,subject,priming,0.9999999999162758
+MDS,emotion,subject,predicted_label,3.947961367940991e-13
+MDS,emotion,emotion,subject,0.8965858571151462
+MDS,emotion,emotion,priming,0.9907200617842373
+MDS,emotion,emotion,predicted_label,9.876212207784676e-19
+MDS,emotion,priming,subject,0.9999999999162758
+MDS,emotion,priming,emotion,0.9907200617842373
+MDS,emotion,priming,predicted_label,0.19366937206610818
+MDS,emotion,predicted_label,subject,3.9479613679409867e-13
+MDS,emotion,predicted_label,emotion,9.876212207784676e-19
+MDS,emotion,predicted_label,priming,0.19366937206610818
+MDS,priming,subject,emotion,0.9999999999964783
+MDS,priming,subject,priming,0.04495929152531401
+MDS,priming,subject,predicted_label,1.9564224008098813e-16
+MDS,priming,emotion,subject,0.9999999999964783
+MDS,priming,emotion,priming,0.773689299140787
+MDS,priming,emotion,predicted_label,0.2075562632540727
+MDS,priming,priming,subject,0.044959291525313964
+MDS,priming,priming,emotion,0.773689299140787
+MDS,priming,priming,predicted_label,6.045158351932001e-16
+MDS,priming,predicted_label,subject,1.9564224008099094e-16
+MDS,priming,predicted_label,emotion,0.2075562632540727
+MDS,priming,predicted_label,priming,6.045158351932001e-16
+t-SNE,emotion,subject,emotion,0.15250876185218126
+t-SNE,emotion,subject,priming,1.0
+t-SNE,emotion,subject,predicted_label,3.428667486964187e-27
+t-SNE,emotion,emotion,subject,0.15250876185218126
+t-SNE,emotion,emotion,priming,0.9994383556813089
+t-SNE,emotion,emotion,predicted_label,3.2583552049838994e-19
+t-SNE,emotion,priming,subject,1.0
+t-SNE,emotion,priming,emotion,0.9994383556813089
+t-SNE,emotion,priming,predicted_label,0.9188835320902877
+t-SNE,emotion,predicted_label,subject,3.428667486964187e-27
+t-SNE,emotion,predicted_label,emotion,3.2583552049839234e-19
+t-SNE,emotion,predicted_label,priming,0.9188835320902877
+t-SNE,priming,subject,emotion,1.0
+t-SNE,priming,subject,priming,0.09776081458713277
+t-SNE,priming,subject,predicted_label,5.980944502113327e-29
+t-SNE,priming,emotion,subject,1.0
+t-SNE,priming,emotion,priming,0.9694870934108036
+t-SNE,priming,emotion,predicted_label,0.9691254418720745
+t-SNE,priming,priming,subject,0.09776081458713277
+t-SNE,priming,priming,emotion,0.9694870934108036
+t-SNE,priming,priming,predicted_label,4.60754044887798e-19
+t-SNE,priming,predicted_label,subject,5.980944502113155e-29
+t-SNE,priming,predicted_label,emotion,0.9691254418720745
+t-SNE,priming,predicted_label,priming,4.60754044887798e-19

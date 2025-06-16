@@ -1,0 +1,16 @@
+feature,method,label,coef
+Middle Temporal Gyrus,Talairach Gyrus,neutral_coefs,1.7935024431983226
+"Middle Temporal Gyrus, temporooccipital part",Harvard_Oxford cort 0 x 1,neutral_coefs,1.336895502987075
+Brodmann area 39,Talairach Ba,neutral_coefs,1.2037332427640184
+Temporal Lobe,Talairach Hemi x Lobe x Tissue,neutral_coefs,1.195781951553457
+GM Inferior parietal lobule PGp,Juelich 0 x 1,neutral_coefs,1.106046699021808
+Middle Temporal Gyrus,Talairach Gyrus,congruent_coefs,-1.0491834370523918
+Feat 7,Hessian,congruent_coefs,0.8584547869764232
+Posterior Cingulate,Talairach Gyrus,congruent_coefs,-0.8181248132369445
+Feat 4,Hessian,congruent_coefs,-0.8065888895686371
+GM Broca's area BA44,Juelich 0 x 1,congruent_coefs,-0.7972098190628326
+Temporal Lobe,Talairach Hemi x Lobe x Tissue,incongruent_coefs,-1.1329028462405546
+"Lateral Occipital Cortex, inferior division",Harvard_Oxford cort 0 x 1,incongruent_coefs,-1.0700022992945342
+GM Inferior parietal lobule Pga,Juelich 0 x 1,incongruent_coefs,-0.9836882812981156
+Lingual Gyrus,Talairach Gyrus,incongruent_coefs,0.9676082669905716
+Limbic Lobe,Talairach Hemi x Lobe x Tissue,incongruent_coefs,0.9480262492637452

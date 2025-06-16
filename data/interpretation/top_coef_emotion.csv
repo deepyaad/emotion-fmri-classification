@@ -1,0 +1,16 @@
+feature,method,label,coef
+Brodmann area 11,Talairach Ba,anger_coefs,0.9971224434325217
+Left Lingual Gyrus,Harvard_Oxford cortl 0 x 1,anger_coefs,0.7564103165474692
+Middle Frontal Gyrus,Talairach Gyrus,anger_coefs,-0.7251811925663303
+b'7Networks_LH_Vis_8',Schaefer 100 x 7 x 1,anger_coefs,-0.7234257108337663
+Left Occipital Fusiform Gyrus,Harvard_Oxford cortl 0 x 1,anger_coefs,-0.7139499416388853
+Right Central Opercular Cortex,Harvard_Oxford cortl 0 x 1,fear_coefs,-0.8624230793896706
+Brodmann area 11,Talairach Ba,fear_coefs,-0.7839362590943504
+Pulvinar,Talairach Ba,fear_coefs,-0.7001865873756232
+Calcarine_L,AAL SPM12,fear_coefs,0.6885148218705425
+Brodmann area 43,Talairach Ba,fear_coefs,-0.6649492051827643
+GM Visual cortex V2 BA18,Juelich 0 x 1,disgust_coefs,0.7139022078007069
+GM Secondary somatosensory cortex / Parietal operculum OP2,Juelich 0 x 1,disgust_coefs,-0.696101285627006
+Right Central Opercular Cortex,Harvard_Oxford cortl 0 x 1,disgust_coefs,0.6907721314104166
+Vermis_9,AAL SPM12,disgust_coefs,-0.6133727360990202
+Caudate_R,AAL SPM12,disgust_coefs,-0.6052127347233971
