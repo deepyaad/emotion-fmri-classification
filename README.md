@@ -61,8 +61,6 @@ The project directory is organized as follows:
 * `emotion-fmri-neu/`: Directory containing the 270 `.nii.gz` fMRI data files.
 * `workflow.ipynb`: The primary Jupyter Notebook detailing the full project pipeline, allowing for local execution of the entire investigation.
 * `report.pdf`: The IEEE-formatted version of the project report, with an abridged analysis.
-* `presentation.pdf`: Slide deck offering a project overview and key analysis points.
-* `presentation.mov`: A 10-minute recorded presentation of the project.
 * `data/`: Directory storing processed `.csv` and `.txt` files.
     * `collinearity/`: Stores `.csv` files showing features after removing those with VIF greater than 5.
     * `cost_function_logs/`: Stores `.txt` logs from dimensionality reduction cost functions.
