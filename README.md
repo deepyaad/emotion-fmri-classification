@@ -1,6 +1,6 @@
 # Inside Out ML: Emotion Classification from fMRI
 
-This repository contains the final project for CS 6140 Machine Learning, focusing on emotion classification from fMRI data using various parcellation and projection techniques. It explores feature extraction methods for high-dimensional, auto-correlated neuroimaging data in multi-class classification tasks.
+This repository contains a research investigation, focusing on emotion classification from fMRI data using various parcellation and projection techniques. It explores feature extraction methods for high-dimensional, auto-correlated neuroimaging data in multi-class classification tasks.
 
 ---
 
