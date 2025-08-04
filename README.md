@@ -85,3 +85,9 @@ The project directory is organized as follows:
         * `subject/`: Categorized by subject ID.
         * `priming/`: Categorized by priming condition.
 * `cover-image.png`: Project cover image.
+
+---
+
+## Next Steps
+- Small Sample Sizes Relative to Feature Space
+- Representing the brain as a graph
